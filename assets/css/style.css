@@ -5,3 +5,47 @@ body {
     padding: 20px;
 }
 
+  .navbar {
+    width: 100%;
+    padding: 0 20px;
+    background-color: #7589F0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .nav-links {
+    display: flex;
+    list-style: none;
+  }
+  
+  nav a {
+    color: black;
+    text-decoration: none;
+    padding: 10px 20px;
+  
+  }
+  
+  .logo {
+    display: inline-block;
+    font-weight: 900;
+  }
+  
+  .nav-item a {
+    display: inline-block;
+    color: black;
+    font-size: 1.2em;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+  }
+  
+  .navbar a:hover {
+    border: solid teal 1px;
+    margin: -1px -1px;
+    border-radius: 10px;
+  }
+  
+  .active {
+    background: #C7CEF3;
+    border-radius: 10px;
+  }

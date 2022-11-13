@@ -27,10 +27,11 @@ nav {
   }
   
   #logo {
-    display: inline-block;
+    display: flex;
     font-weight: 900;
     font-size: 1.2em;
     margin-left: 10px;
+    text-align: center;
   }
   
   .nav-item a {
@@ -39,6 +40,7 @@ nav {
     font-size: 1.2em;
     font-weight: 700;
     letter-spacing: 1.5px;
+    text-align: center;
   }
   
   .nav-item:hover, .logo:hover {

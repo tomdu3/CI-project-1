@@ -41,9 +41,9 @@ nav {
     letter-spacing: 1.5px;
   }
   
-  .navbar a:hover {
+  .nav-item:hover {
     border: solid teal 1px;
-    margin: -1px -1px;
+    margin: -1px;
     border-radius: 10px;
   }
   

@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+* {
+  box-sizing: border-box;
+}
 
 body {
     font-family: Poppins;
@@ -93,27 +96,17 @@ nav {
 
   /* Short Info */
 
-  .short-info {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    height: 600px;
-  }
+ /* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
 
-  #short-info-one {
-    padding-top: 30px;
-    width: 50%;
-    float: left;
-    display: flex;
-  }
-
-  #short-info-two {
-    padding-top: 30px;
-    width: 50%;
-    float: right;
-  }
-
-  .short-info-image img {
-    width: 100%;
-    border-radius: 25%;
-  }
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}

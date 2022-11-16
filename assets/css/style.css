@@ -32,16 +32,16 @@ nav {
   #logo {
     display: flex;
     font-weight: 900;
-    font-size: 1.2em;
+    font-size: 20px;
     margin-left: 10px;
     text-align: center;
     align-items: center;
   }
-  
+
   .nav-item a {
     display: inline-block;
     color: black;
-    font-size: 1.2em;
+    font-size: 20px;
     font-weight: 700;
     letter-spacing: 1.5px;
     text-align: center;
@@ -75,9 +75,9 @@ nav {
   }
   
   #hero-image {
-    height: 600px;
+    height: 100%;
     width: 100%;
-    background-image: url('../images/hero-antoine-beauvillain-zY_NaksFH1k-unsplash.jpg');
+    background-image: url('../images/hero1-antoine-beauvillain-zY_NaksFH1k-unsplash.jpg');
     background-size: cover;
   }
   

@@ -110,3 +110,21 @@ nav {
   display: table;
   clear: both;
 }
+
+.short-info-image {
+  width: 250px;
+  height: 250px;
+  border-radius: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+#short-info-image-one {
+  background-image: url("../images/person-cry-pexels-karolina-grabowska-4472021.jpg");
+
+}
+#short-info-image-two {
+  background-image: url("../images/forced-smile-pexels-ketut-subiyanto-4584534.jpg");
+}
+

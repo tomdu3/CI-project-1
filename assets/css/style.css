@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
 * {
   box-sizing: border-box;
 }
@@ -110,6 +111,7 @@ nav {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
+  margin-bottom: 50px;
 }
 
 .short-info > div {
@@ -136,3 +138,16 @@ nav {
   background-image: url("../images/forced-smile-pexels-ketut-subiyanto-4584534.jpg");
   float: left;
 }
+
+/* Contact */
+
+.contact {
+  margin: auto;
+  width: 50%;
+  border: 1px solid teal;
+  border-radius: 25px;
+  box-shadow: 5px 10px #7589F0;
+  padding: 10px;
+  text-align: center;
+}
+

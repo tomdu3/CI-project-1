@@ -98,8 +98,8 @@ nav {
   /* Short Info */
 
 .short-info-image {
-  width: 250px;
-  height: 250px;
+  width: 400px;
+  height: 400px;
   border-radius: 100%;
   background-size: cover;
   background-repeat: no-repeat;

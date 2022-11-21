@@ -114,22 +114,21 @@ nav {
   margin-bottom: 100px;
 }
 
-.short-info > div {
-  flex: 1 1 50%;
+.short-info-text {
+  padding-bottom: 40px;
+  padding-top: 40px;
+  font-size: x-large;
+  text-align: center;
 }
+
 .column {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  flex-wrap: wrap;
-  padding: 0 30px;
 }
 
-.short-info-text {
-  font-size: 1.3em;
-  text-align: center;
-}
+
 #short-info-image-one {
   background-image: url('../images/person-cry-pexels-karolina-grabowska-4472021.jpg');
   float: right;

@@ -111,7 +111,7 @@ nav {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
 
 .short-info > div {
@@ -131,11 +131,11 @@ nav {
   text-align: center;
 }
 #short-info-image-one {
-  background-image: url("../images/person-cry-pexels-karolina-grabowska-4472021.jpg");
+  background-image: url('../images/person-cry-pexels-karolina-grabowska-4472021.jpg');
   float: right;
 }
 #short-info-image-two {
-  background-image: url("../images/forced-smile-pexels-ketut-subiyanto-4584534.jpg");
+  background-image: url('../images/forced-smile-pexels-ketut-subiyanto-4584534.jpg');
   float: left;
 }
 
@@ -144,10 +144,66 @@ nav {
 .contact {
   margin: auto;
   width: 50%;
-  border: 1px solid teal;
+  border: 3px solid teal;
   border-radius: 25px;
   box-shadow: 5px 10px #7589F0;
-  padding: 10px;
+  padding: 20px;
   text-align: center;
+  font-size: x-large;
 }
 
+/* .contact h2 {
+  font-size: x-large;
+}
+
+.contact p {
+  font-size: x-large;
+} */
+
+.contact button {
+  font-size: x-large;
+  font-weight: bold;
+  color: mediumblue;
+  text-shadow: 1px 2px lightskyblue;
+  background-color: #C7CEF3;
+  letter-spacing: 2px;
+  border-radius: 25px;
+  padding: 20px;
+}
+
+/* location info */
+.location-info {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid lightskyblue;
+}
+
+.address {
+  height: 400px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.location-info > iframe {
+  width: 100%;
+}
+
+.address > div {
+  padding-top: 30px;
+  padding-left: 10%;
+  font-size: x-large;
+}
+
+.address h3 {
+  letter-spacing: 2px;
+  margin-bottom: 0;
+}
+#address-image {
+ background-image: url('../images/Pantheon_(Rome)_-_Right_side_and_front.jpg');
+ width: 500px;
+ height: 500px;
+ background-size: contain;
+ background-repeat: no-repeat;
+}

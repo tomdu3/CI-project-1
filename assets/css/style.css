@@ -97,25 +97,17 @@ nav {
 
   /* Short Info */
 
-.short-info-image {
-  width: 350px;
-  height: 350px;
-  border-radius: 100%;
-  background-size: cover;
-  background-repeat: no-repeat;
-  justify-content: center;
-}
-
 .short-info {
   padding: 20px;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   justify-content: space-evenly;
   margin-bottom: 100px;
 }
 
 .short-info-text {
-  width: 75%;
+  width: 400px;
   font-size: 1.5rem;
   text-align: center;
 }
@@ -127,6 +119,14 @@ nav {
   align-items: center;
 }
 
+.short-info-image {
+  width: 350px;
+  height: 350px;
+  border-radius: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  justify-content: center;
+}
 
 #short-info-image-one {
   background-image: url('../images/person-cry-pexels-karolina-grabowska-4472021.jpg');

@@ -22,18 +22,18 @@ nav {
     list-style: none;
     margin-right: 10px;
   }
-  
+
   nav a {
+    font-size: 1.7em;
     color: black;
     text-decoration: none;
-    padding: 10px 20px;
+    padding: 0 20px;
   
   }
   
   #logo {
     display: flex;
     font-weight: 900;
-    font-size: 20px;
     margin-left: 10px;
     text-align: center;
     align-items: center;
@@ -42,7 +42,6 @@ nav {
   .nav-item a {
     display: inline-block;
     color: black;
-    font-size: 20px;
     font-weight: 700;
     letter-spacing: 1.5px;
     text-align: center;
@@ -116,8 +115,8 @@ nav {
 }
 
 .short-info-text {
-  width: 400px;
-  font-size: large;
+  width: 75%;
+  font-size: 1.5rem;
   text-align: center;
 }
 
@@ -146,7 +145,7 @@ nav {
   box-shadow: 5px 10px #7589F0;
   padding: 20px;
   text-align: center;
-  font-size: large;
+  font-size: x-large;
 }
 
 
@@ -196,4 +195,13 @@ nav {
  height: 500px;
  background-size: contain;
  background-repeat: no-repeat;
+}
+
+footer {
+  display: flex;
+  font-size: large;
+}
+
+footer ul {
+  flex-direction: row;
 }

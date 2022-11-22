@@ -197,11 +197,37 @@ nav {
  background-repeat: no-repeat;
 }
 
+/* footer */
 footer {
-  display: flex;
-  font-size: large;
+  color: #fff;
+  background-color: #7589F0;
+  padding: 10px 0;
 }
 
-footer ul {
-  flex-direction: row;
+.social-links  {
+  text-align: center;
+
+}
+
+.social-networks {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  margin-bottom: 10px;
+  margin-right: 50px;
+}
+
+.social-networks li {
+  list-style: none;
+
+}
+
+.social-networks a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.copyright {
+  display: flex;
+  justify-content: center;
 }

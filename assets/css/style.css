@@ -165,14 +165,13 @@ nav {
   margin-top: 50px;
   display: flex;
   flex-direction: column;
-  border: 1px solid lightskyblue;
 }
 
 .address {
   height: 400px;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .location-info > iframe {
@@ -181,7 +180,7 @@ nav {
 
 .address > div {
   padding-top: 30px;
-  padding-left: 5%;
+  padding-left: 30px;
   font-size: large;
 }
 
@@ -189,6 +188,7 @@ nav {
   letter-spacing: 2px;
   margin-bottom: 0;
 }
+
 #address-image {
  background-image: url('../images/Pantheon_(Rome)_-_Right_side_and_front.jpg');
  width: 500px;
@@ -211,10 +211,11 @@ footer {
 
 .social-networks {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   font-size: 20px;
   margin-bottom: 10px;
   margin-right: 50px;
+  background-color: #7589F0;
 }
 
 .social-networks li {

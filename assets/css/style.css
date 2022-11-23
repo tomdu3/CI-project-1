@@ -231,3 +231,18 @@ footer {
   display: flex;
   justify-content: center;
 }
+
+/* articles */
+.articles {
+display: flex;
+}
+
+.articles > h1 {
+  text-align: center;
+}
+
+.article {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}

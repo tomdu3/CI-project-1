@@ -252,8 +252,9 @@ article > div {
   margin: 1rem auto 0 auto;
 }
 
-
-
+.second {
+  flex-direction: row-reverse;
+}
 .article-heading {
   background-color: red;
   color: greenyellow;

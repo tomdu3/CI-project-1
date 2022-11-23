@@ -234,15 +234,35 @@ footer {
 
 /* articles */
 .articles {
-display: flex;
+  margin-bottom: 50px;
 }
 
 .articles > h1 {
   text-align: center;
 }
 
-.article {
+article {
   display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
+}
+
+article > div {
+  background-color: purple;
+  display:flex;
+  justify-content: column;
+  margin: 1rem auto 0 auto;
+}
+
+
+
+.article-heading {
+  background-color: red;
+  color: greenyellow;
+  flex: 1;
+  padding: 1rem;
+}
+
+.article-text {
+  background-color: lightgrey;
+  flex: 2;
+  padding: 1rem;
 }

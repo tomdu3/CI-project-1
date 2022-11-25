@@ -24,7 +24,7 @@ nav {
   }
 
   nav a {
-    font-size: 1.7em;
+    font-size: 1.2em;
     color: black;
     text-decoration: none;
     padding: 0 20px;
@@ -107,7 +107,7 @@ nav {
 
 .short-info-text {
   width: 400px;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   text-align: center;
 }
 
@@ -138,21 +138,21 @@ nav {
 
 .contact {
   margin: auto;
-  width: 50%;
-  border: 3px solid teal;
+  width: 33.33%;
+  border: 3px solid #394375;
   border-radius: 25px;
-  box-shadow: 5px 10px #7589F0;
+  box-shadow: 5px 10px #7589f0;
   padding: 20px;
   text-align: center;
-  font-size: x-large;
+  font-size: large;
 }
 
 
 .contact button {
-  font-size: x-large;
+  font-size: large;
   font-weight: bold;
   color: mediumblue;
-  text-shadow: 1px 2px lightskyblue;
+  text-shadow: 1px 1px hsl(230, 64%, 76%);
   background-color: #C7CEF3;
   letter-spacing: 2px;
   border-radius: 25px;

@@ -33,7 +33,6 @@ nav {
   
   #logo {
     display: flex;
-    font-weight: 900;
     margin-left: 10px;
     text-align: center;
     align-items: center;
@@ -42,7 +41,6 @@ nav {
   .nav-item a {
     display: inline-block;
     color: black;
-    font-weight: 700;
     letter-spacing: 1.5px;
     text-align: center;
   }
@@ -55,8 +53,9 @@ nav {
 
   
   .active {
-    background: #C7CEF3;
-    border-radius: 10px;
+      background: #8b99e9;
+      font-weight: 700;
+      border-radius: 5px;
   }
 
   /* hero image */

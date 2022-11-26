@@ -266,3 +266,33 @@ article > div {
   flex: 2;
   padding: 1rem;
 }
+
+/* awareness videos */
+.videos-heading {
+  text-align: center;
+  font-size: xx-large;
+  font-weight: 400;
+  padding-bottom: 20px;
+}
+
+.videos {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+.row {
+  flex: 0 0 50%;
+  width: 50%;
+}
+
+.video-container {
+  text-align: center;
+  padding-bottom: 50px;
+
+}
+
+.video {
+  width: 70%;
+  height: 50vh;
+}

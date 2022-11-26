@@ -296,3 +296,56 @@ article > div {
   width: 70%;
   height: 50vh;
 }
+
+/* contact section */
+
+.contact-section {
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-inner {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 700px;
+}
+.contact-section h1 {
+  font-size: xx-large;
+  font-weight: 700; 
+}
+
+.contact-section #motto {
+  font-size: x-large;
+  font-weight: 500;
+}
+
+.contact-section form {
+  font-size: large;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  width: 80%;
+}
+
+.personal-details, .message-details{
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+}
+
+.personal-details > div *{
+  display: flex;
+  width: 100%;
+}
+#submit {
+  width: 100px;
+}
+
+input, input::placeholder, textarea {
+  font-size: large;
+  font-family: inherit;
+}

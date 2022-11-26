@@ -35,21 +35,29 @@
 
     <!-- Form -->
     <section class="contact-section">
-        <h1>Contact Us</h1>
-        <div id="motto">
-            <p>Together Is Easier</p>
+        <div class="contact-inner">
+            <h1>Contact Us</h1>
+            <div id="motto">
+                <p>Together Is Easier</p>
+            </div>
+            <form method="POST" action="https://formdump.codeinstitute.net/" class="contact-form">
+                <div class="personal-details">
+                    <div class="personal-name">
+                        <label for="name">Your Name</label>
+                        <input type="text" id="name" name="name" placeholder="Your name, please.." required>
+                    </div>
+                    <div class="personal-email">
+                        <label for="email">E-mail</label>
+                        <input type="email" id="email" name="email" placeholder="Your e-mail" required>
+                    </div>
+                </div>
+                <div class="message-details">
+                    <label for="message">Message</label>
+                    <textarea name="message" id="message" cols="30" rows="10" placeholder="Your message"></textarea>
+                </div>
+                <input id="submit" type="submit" value="Submit">
+            </form>
         </div>
-        <form method="POST" action="https://formdump.codeinstitute.net/" class="contact-form">
-                <label for="name">Your Name</label>
-                <input type="text" id="name" name="name" placeholder="Your name, please.." required>
-
-                <label for="email">E-mail</label>
-                <input type="email" id="email" name="email" placeholder="Your e-mail" required>
-
-                <label for="message">Message</label>
-                <textarea name="message" id="message" cols="30" rows="10" placeholder="Your message"></textarea>
-                <input type="submit" value="Submit">
-        </form>
     </section>
 
     <!-- Location Info -->

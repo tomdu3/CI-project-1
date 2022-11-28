@@ -7,7 +7,9 @@
 body {
     font-family: Poppins;
     padding: 20px;
-    background-color:#fcfcfc;
+    /* background-color:#fefbd8; */
+    background-color:#fbf9e6;
+
 }
 
 nav {
@@ -137,7 +139,7 @@ nav {
 
 .contact {
   margin: auto;
-  width: 33.33%;
+  width: 600px;
   border: 3px solid #394375;
   border-radius: 25px;
   box-shadow: 5px 10px #7589f0;
@@ -247,10 +249,12 @@ article {
 
 article > div {
   display:flex;
-  justify-content: column;
   margin: 1rem auto 0 auto;
 }
 
+.first {
+  margin: 0;
+}
 .second {
   flex-direction: row-reverse;
 }
@@ -267,22 +271,30 @@ article > div {
   height: fit-content;
   margin: 0 auto;
   text-align: center;
+  align-items: center;
 }
 .article-text {
   flex: 2;
   margin: auto auto;
   text-align: justify;
   font-size: larger;
+  line-gap-override: ;
+}
+
+.article-text > p {
+  padding: 30px;
 }
 
 .first p {
-  padding-left: 5rem;
-  padding-right: 2rem;
+  margin-left: 5rem;
+  margin-right: 2rem;
+  background-color: #d5f4e6;
 }
 
 .second p {
-  padding-right: 5rem;
-  padding-left: 2rem;
+  margin-right: 5rem;
+  margin-left: 2rem;
+  background-color: #80ced6;
 }
 
 #article-1 > .article-heading {

@@ -87,6 +87,58 @@ nav {
     .nav-item {
         flex: 1 0 10%;
     }
+    #hero-outer {
+        height: 600px;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+        display: inline-block;
+        margin-bottom: 50px;
+      }
+      
+    #hero-text,
+    #hero-text h1 {
+      color: #fff;
+    }
+
+    #hero-text {
+        font-size: 1.3em;
+        letter-spacing: 5px;
+        width: 250px !important;
+        background-color: #cfe0e898;
+        top: 10%;
+        left: 2.5%;
+        text-align: center;
+        vertical-align: middle;
+        position: absolute;
+        background-clip: content-box;
+      }
+
+      #hero-image {
+        height: 100%;
+        width: 100%;
+        background-image: url('../images/hero1-antoine-beauvillain-zY_NaksFH1k-unsplash.jpg');
+        background-size: cover;
+      }
+
+      .address {
+        height: 400px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+      }
+    
+      
+    .address > div {
+        padding-top: 30px;
+        padding-left: 30px;
+        font-size: large;
+      }
+      
+      .address h3 {
+        letter-spacing: 2px;
+        margin-bottom: 0;
+      }
 }
 
 @media (min-width: 900px) {
@@ -102,3 +154,165 @@ nav {
         margin-right: auto;
     }
 }
+
+ /* hero image */
+
+ #hero-outer {
+    height: 600px;
+    width: 100%;
+    display: flex;
+    flex-direction: column-reverse;
+    margin-bottom: 20px;
+  }
+  
+  
+  #hero-image {
+    height: 100%;
+    width: 100%;
+    background-image: url('../images/hero1-antoine-beauvillain-zY_NaksFH1k-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #hero-text {
+    font-size: 1.1em;
+    color: black;
+    margin: auto;
+    text-align: center;
+  }
+
+   /* Short Info */
+
+.short-info {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 100px;
+    background-color: #cfe0e8;
+  }
+  
+  .short-info-text {
+    margin: 20px 50px;
+    font-size: 1.2rem;
+    text-align: center;
+  }
+  
+  .column {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .short-info-image {
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+  }
+  
+  #short-info-image-one {
+    background-image: url('../images/person-cry-pexels-karolina-grabowska-4472021.jpg');
+  }
+  #short-info-image-two {
+    background-image: url('../images/forced-smile-pexels-ketut-subiyanto-4584534.jpg');
+  }
+
+  /* Contact */
+
+.contact {
+    margin: auto;
+    width: 80%;
+    border: 3px solid  #b7d7e8;
+    border-radius: 25px;
+    box-shadow: 5px 10px #87bdd8;
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+  }
+
+ 
+  .contact button {
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    text-shadow: 1px 1px #87bdd8;
+    background-color: #daebe8;
+    letter-spacing: 2px;
+    border-radius: 25px;
+    padding: 20px;
+  }
+
+  /* location info */
+.location-info {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .address {
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+  }
+
+  
+.address > div {
+    padding-top: 30px;
+    padding-left: 30px;
+  }
+  
+  .address h3 {
+    letter-spacing: 2px;
+    margin-bottom: 0;
+  }
+  
+  #address-image {
+   background-image: url('../images/Pantheon_(Rome)_-_Right_side_and_front.jpg');
+   width: 100%;
+   height: 100%;
+   margin: 0 auto;
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-position: center;
+  }
+
+  /* footer */
+footer {
+    color: #fff;
+    background-color: #87bdd8;
+}
+  
+  .social-links  {
+    text-align: center;
+  }
+  
+  .social-networks {
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+}
+  
+  .social-networks li {
+    list-style: none;
+  
+  }
+  
+  .social-networks a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .copyright {
+    display: flex;
+    justify-content: center;
+    background-color: #cfe0e8;
+  }

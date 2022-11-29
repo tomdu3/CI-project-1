@@ -316,3 +316,7 @@ footer {
     justify-content: center;
     background-color: #cfe0e8;
   }
+
+  .icons-text {
+    display: none;
+  }

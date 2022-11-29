@@ -344,23 +344,24 @@ article > div {
 .videos {
   display: flex;
   flex-wrap: wrap;
-  align-content: flex-start;
+  align-content: center;
 }
 
 .row {
   flex: 0 0 50%;
-  width: 50%;
+  width: 100%;
 }
 
 .video-container {
+  justify-content: center;
   text-align: center;
   padding-bottom: 50px;
 
 }
 
 .video {
-  width: 70%;
-  height: 50vh;
+  width: 500px;
+  height: 500px;
 }
 
 /* contact section */

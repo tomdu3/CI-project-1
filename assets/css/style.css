@@ -75,85 +75,6 @@ nav {
     text-decoration: underline;
 }
 
-@media (min-width: 600px) {
-    .navbar {
-        line-height: 1.5rem;
-    }
-
-    .nav-links {
-        width: 100%;
-    }
-
-    .nav-item {
-        flex: 1 0 10%;
-    }
-    #hero-outer {
-        height: 600px;
-        width: 100%;
-        overflow: hidden;
-        position: relative;
-        display: inline-block;
-        margin-bottom: 50px;
-      }
-      
-    #hero-text,
-    #hero-text h1 {
-      color: #fff;
-    }
-
-    #hero-text {
-        font-size: 1.3em;
-        letter-spacing: 5px;
-        width: 250px !important;
-        background-color: #cfe0e898;
-        top: 10%;
-        left: 2.5%;
-        text-align: center;
-        vertical-align: middle;
-        position: absolute;
-        background-clip: content-box;
-      }
-
-      #hero-image {
-        height: 100%;
-        width: 100%;
-        background-image: url('../images/hero1-antoine-beauvillain-zY_NaksFH1k-unsplash.jpg');
-        background-size: cover;
-      }
-
-      .address {
-        height: 400px;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-evenly;
-      }
-    
-      
-    .address > div {
-        padding-top: 30px;
-        padding-left: 30px;
-        font-size: large;
-      }
-      
-      .address h3 {
-        letter-spacing: 2px;
-        margin-bottom: 0;
-      }
-}
-
-@media (min-width: 900px) {
-    .navbar {
-        justify-content: space-between;
-    }
-
-    .nav-links {
-        width: auto;
-    }
-
-    .logo {
-        margin-right: auto;
-    }
-}
 
  /* hero image */
 
@@ -338,3 +259,91 @@ footer {
   .icons-text {
     display: none;
   }
+
+  @media (min-width: 600px) {
+    .navbar {
+        line-height: 1.5rem;
+    }
+
+    .nav-links {
+        width: 100%;
+    }
+
+    .nav-item {
+        flex: 1 0 10%;
+    }
+    #hero-outer {
+        height: 600px;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+        display: inline-block;
+        margin-bottom: 50px;
+      }
+      
+    #hero-text,
+    #hero-text h1 {
+      color: #fff;
+    }
+
+    #hero-text {
+        font-size: 1.3em;
+        letter-spacing: 5px;
+        width: 250px !important;
+        background-color: #cfe0e898;
+        top: 10%;
+        left: 2.5%;
+        text-align: center;
+        vertical-align: middle;
+        position: absolute;
+        background-clip: content-box;
+      }
+
+      #hero-image {
+        height: 100%;
+        width: 100%;
+        background-image: url('../images/hero1-antoine-beauvillain-zY_NaksFH1k-unsplash.jpg');
+        background-size: cover;
+      }
+
+      .address {
+        height: 400px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+      }
+    
+      
+    .address > div {
+        padding-top: 30px;
+        padding-left: 30px;
+        font-size: large;
+      }
+      
+      .address h3 {
+        letter-spacing: 2px;
+        margin-bottom: 0;
+      }
+}
+
+@media (min-width: 900px) {
+    .navbar {
+        justify-content: space-between;
+    }
+
+    .nav-links {
+        width: auto;
+    }
+
+    .logo {
+        margin-right: auto;
+    }
+
+    .icons-text {
+      display: unset;
+    }
+
+    .fab {
+      display: none !important;
+    }
+}

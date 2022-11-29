@@ -260,6 +260,57 @@ footer {
     display: none;
   }
 
+  /* articles */
+.articles {
+  display: flex;
+  flex-direction: column;
+}
+
+.articles > h1 {
+  text-align: center;
+}
+.article-heading {
+  margin: auto;
+  background-size: cover; 
+  height: 300px;
+  background-position: center;
+}
+
+.article-title {
+  position: absolute;
+  color: #fff;
+  background-color: #cfe0e898;
+  background-clip: content-box;
+  text-align: center;
+  margin: 10px 5%;
+  text-shadow: 1px 1px #000;
+}
+
+.article-title > h3 {
+  padding: 0 5px;
+}
+
+#article-1 > .article-heading {
+  background-image: url(../images/caju-gomes-QDq3YliZg48-unsplash.jpg);
+}
+
+#article-2 > .article-heading {
+  background-image: url(../images/nicholas-kusuma-xb2DaEeX8jk-unsplash.jpg);
+}
+
+#article-3 > .article-heading {
+  background-image: url(../images/pexels-gratisography-1990.jpg);
+  }
+
+#article-4 > .article-heading {
+  background-image: url(../images/pexels-yan-krukov-7640764.jpg);
+  }
+
+.article-text {
+  padding: 0 10px;
+  text-align: justify;
+}
+
   @media (min-width: 600px) {
     .navbar {
         line-height: 1.5rem;

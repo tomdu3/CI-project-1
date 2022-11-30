@@ -278,7 +278,6 @@ article > div {
   margin: auto auto;
   text-align: justify;
   font-size: larger;
-  line-gap-override: ;
 }
 
 .article-text > p {
@@ -420,7 +419,7 @@ input, input::placeholder, textarea {
   float: left;
   margin: 0 auto;
   padding-top: 50px;
-  background-image: url('../images/pexels-pia-kafanke-3807702-smaller\ .jpg');
+  background-image: url(../images/pexels-pia-kafanke-3807702-smaller.jpg);
   width: 350px;
   height: 450px;
   background-size: contain;

@@ -219,6 +219,7 @@ nav {
     height:100%;
     width:100%;
     position:absolute;
+    max-height: 500px;
 }
 
   /* footer */

@@ -461,6 +461,11 @@ input, input::placeholder, textarea {
       .contact-inner {
         width: 60%;
       }
+
+      .location-map {
+        padding-bottom:35%;    
+    }
+    
       
 }
 

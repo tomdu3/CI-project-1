@@ -111,6 +111,8 @@ nav {
     justify-content: space-evenly;
     margin-bottom: 100px;
     background-color: #cfe0e8;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
   
   .short-info-text {
@@ -441,7 +443,15 @@ input, input::placeholder, textarea {
         background-image: url('../images/hero1-antoine-beauvillain-zY_NaksFH1k-unsplash.jpg');
         background-size: cover;
       }
-
+      
+      .short-info {
+        flex-flow: row;
+        flex: 1 1 0;
+      }
+      .column {
+        flex-basis: 50%;
+        justify-content: space-between;
+      }
       .address {
         height: 400px;
         display: flex;

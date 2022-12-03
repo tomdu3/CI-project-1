@@ -172,6 +172,8 @@ nav {
     margin-top: 50px;
     display: flex;
     flex-direction: column;
+    padding: 0 20px 20px 20px;
+    justify-content: center;
   }
   
   .address {
@@ -186,6 +188,7 @@ nav {
 .address > div {
     padding-top: 30px;
     padding-left: 30px;
+    padding-right: 10px;
   }
   
   .address h3 {
@@ -451,6 +454,7 @@ input, input::placeholder, textarea {
         padding-top: 30px;
         padding-left: 30px;
         font-size: large;
+        display: flex;
       }
       
       .address h3 {
@@ -496,8 +500,8 @@ input, input::placeholder, textarea {
       margin: 0 auto;
       padding-top: 50px;
       background-image: url(../images/pexels-pia-kafanke-3807702-smaller.jpg);
-      width: 350px;
-      height: 450px;
+      width: 55%;
+      height: 55%;
       background-size: contain;
       background-position: center;
       background-repeat: no-repeat;

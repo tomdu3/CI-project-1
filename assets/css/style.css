@@ -345,6 +345,11 @@ iframe.video {
   margin: auto;
 }
 
+#contact-image {
+  display: unset;
+  display: none;
+}
+
 .contact-inner {
   display: flex;
   flex-direction: column;
@@ -467,6 +472,14 @@ input, input::placeholder, textarea {
         margin-bottom: 0;
       }
 
+      .address hr {
+        margin-left: 10px;
+        margin-right: 10px;
+      }
+      #address-image {
+        max-width: 300px;
+      }
+
       .articles {
         margin-bottom: 50px;
       }
@@ -514,12 +527,28 @@ input, input::placeholder, textarea {
         padding: 1rem; 
       }
       
+
+    #contact-image {
+      display: unset;
+      margin: 0 auto;
+      padding-top: 50px;
+      padding-right: 20px;
+      background-image: url('../images/pexels-pia-kafanke-3807702-smaller.webp');
+      width: 80%;
+      height: 50vh;
+      background-size: contain;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+
       .contact-inner {
-        width: 60%;
+        width: 50%;
       }
+
       .contact {
-        max-width: 600px;
+        max-width: 400px;
       }
+
       .location-map {
         padding-bottom:35%;    
     }
@@ -550,22 +579,10 @@ input, input::placeholder, textarea {
     .fab {
       display: none !important;
     }
-  .contact-section {
-    padding: 40px 20px;
-  }
-  }
-    #contact-image {
-      margin: 0 auto;
-      padding-top: 50px;
-      padding-right: 20px;
-      background-image: url('../images/pexels-pia-kafanke-3807702-smaller.webp');
-      width: 80%;
-      height: 80vh;
-      background-size: contain;
-      background-position: center;
-      background-repeat: no-repeat;
+    .contact-section {
+      padding: 40px 20px;
     }
-
+  
     .contact-inner {
       width: 50%;
       max-width: 600px;

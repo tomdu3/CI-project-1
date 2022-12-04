@@ -512,7 +512,7 @@ input, input::placeholder, textarea {
         margin: 0;
         text-align: justify;
         justify-content: center;
-        font-size: large;
+        font-size: larger;
       }
       
       .article-text > p {

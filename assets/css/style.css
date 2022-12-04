@@ -337,7 +337,6 @@ iframe.video {
 
 /* contact section */
 .contact-section {
-  padding: 50px auto;
   margin: 0;
   display: flex;
   justify-content: center;
@@ -474,7 +473,7 @@ input, input::placeholder, textarea {
       article {
         display: flex;
         margin: 50px auto;
-        height: min-auto;
+        min-height: auto;
       }
       
       article > div {

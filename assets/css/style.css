@@ -77,7 +77,6 @@ nav {
 
 
  /* hero image */
-
  #hero-outer {
     height: 600px;
     width: 100%;
@@ -103,7 +102,6 @@ nav {
   }
 
    /* Short Info */
-
 .short-info {
     display: flex;
     flex-direction: row;
@@ -144,7 +142,6 @@ nav {
   }
 
   /* Contact */
-
 .contact {
     margin: 40px auto 0 auto;
     width: 80%;
@@ -155,7 +152,6 @@ nav {
     text-align: center;
     font-size: 18px;
   }
-
  
   .contact button {
     font-size: 16px;
@@ -185,7 +181,6 @@ nav {
     align-items: center;
   }
 
-  
 .address > div {
     padding-top: 30px;
     padding-left: 30px;
@@ -341,7 +336,6 @@ iframe.video {
 }
 
 /* contact section */
-
 .contact-section {
   padding: 50px auto;
   margin: 0;
@@ -409,6 +403,7 @@ input, input::placeholder, textarea {
     .nav-item {
         flex: 1 0 10%;
     }
+
     #hero-outer {
         height: 600px;
         width: 100%;
@@ -416,7 +411,7 @@ input, input::placeholder, textarea {
         position: relative;
         display: inline-block;
         margin-bottom: 50px;
-      }
+    }
       
     #hero-text,
     #hero-text h1 {
@@ -447,10 +442,12 @@ input, input::placeholder, textarea {
         flex-flow: row;
         flex: 1 1 0;
       }
+
       .column {
         flex-basis: 50%;
         justify-content: space-between;
       }
+
       .address {
         height: 400px;
         display: flex;
@@ -458,7 +455,6 @@ input, input::placeholder, textarea {
         justify-content: space-evenly;
       }
     
-      
     .address > div {
         padding-top: 30px;
         padding-left: 30px;
@@ -471,7 +467,6 @@ input, input::placeholder, textarea {
         margin-bottom: 0;
       }
 
-      
       .articles {
         margin-bottom: 50px;
       }
@@ -506,7 +501,6 @@ input, input::placeholder, textarea {
         text-align: center;
       }
 
-
       .article-text {
         flex: 2;
         margin: 0;
@@ -530,13 +524,10 @@ input, input::placeholder, textarea {
         padding-bottom:35%;    
     }
     
-    
     iframe.video {
       width: 100%;
       height: 400px;
-    }
-    
-      
+    } 
 }
 
 @media (min-width: 900px) {
@@ -574,12 +565,10 @@ input, input::placeholder, textarea {
       background-repeat: no-repeat;
     }
 
-
     .contact-inner {
       width: 50%;
       max-width: 600px;
     }
-
 
     .video-container {
       padding: 20px;

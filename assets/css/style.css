@@ -472,6 +472,57 @@ input, input::placeholder, textarea {
         margin-bottom: 0;
       }
 
+      
+      .articles {
+        margin-bottom: 50px;
+      }
+      
+      article {
+        display: flex;
+        margin: 50px auto;
+        height: 300px;
+      }
+      
+      article > div {
+        display:flex;
+      }
+      
+      .first {
+        margin: 0;
+      }
+      .second {
+        flex-direction: row-reverse;
+      }
+      
+      .article-heading {
+        margin: 0 10px;
+        flex: 1;
+        padding: 1rem;
+      }
+
+      .article-title {
+        position: relative;
+        background-clip: content-box;
+        height: fit-content;
+        text-align: center;
+      }
+
+
+      .article-text {
+        flex: 2;
+        margin: 0;
+        text-align: justify;
+        justify-content: center;
+        font-size: larger;
+      }
+      
+      .article-text > p {
+        margin: auto;
+        padding: 1rem;
+        
+      }
+      
+
       .contact-inner {
         width: 60%;
       }

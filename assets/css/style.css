@@ -363,12 +363,15 @@ iframe.video {
 }
 
 .contact-section form {
-  font-size: large;
   align-self: center;
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
   width: 100%;
+}
+
+.contact-section form div {
+  font-size: 1rem;
 }
 
 .personal-details, .message-details{
@@ -534,7 +537,7 @@ input, input::placeholder, textarea {
       padding-right: 20px;
       background-image: url('../images/pexels-pia-kafanke-3807702-smaller.webp');
       width: 80%;
-      height: 50vh;
+      height: 65vh;
       background-size: contain;
       background-position: center;
       background-repeat: no-repeat;

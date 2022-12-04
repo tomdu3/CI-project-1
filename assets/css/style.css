@@ -550,7 +550,8 @@ input, input::placeholder, textarea {
       display: none !important;
     }
   .contact-section {
-    justify-content: space-around;
+    padding: 40px 20px;
+  }
   }
     #contact-image {
       margin: 0 auto;

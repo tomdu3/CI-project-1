@@ -164,6 +164,10 @@ nav {
     padding: 20px;
   }
 
+  .contact button:hover {
+    background-color: #87bdd8;
+    color: #fff;
+  }
   /* location info */
 .location-info {
     margin-top: 50px;

@@ -250,6 +250,10 @@ footer {
     text-decoration: none;
   }
   
+  .social-networks a:hover {
+    filter: invert(1);
+  }
+
   .copyright {
     color: darkblue;
     display: flex;

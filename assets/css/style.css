@@ -187,7 +187,7 @@ nav {
     padding-right: 10px;
   }
   
-  .address h3 {
+  .address h2 {
     letter-spacing: 2px;
     margin-bottom: 0;
   }
@@ -467,9 +467,8 @@ input, input::placeholder, textarea {
         display: flex;
       }
       
-      .address h3 {
-        letter-spacing: 2px;
-        margin-bottom: 0;
+      .address h2 {
+        text-align: center;
       }
 
       .address hr {

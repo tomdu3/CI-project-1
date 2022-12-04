@@ -479,7 +479,7 @@ input, input::placeholder, textarea {
       article {
         display: flex;
         margin: 50px auto;
-        height: 300px;
+        height: min-auto;
       }
       
       article > div {
@@ -512,7 +512,7 @@ input, input::placeholder, textarea {
         margin: 0;
         text-align: justify;
         justify-content: center;
-        font-size: larger;
+        font-size: large;
       }
       
       .article-text > p {

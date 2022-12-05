@@ -2,9 +2,11 @@
 
 # Smiling Depression
 
+<img src="./assets/readme_images/amiresponsive.png" width="800px">
+
 ## Site Info
 
-This website has as a main theme the **smiling sepression**, a functioning depression condition that is quite spread and many times unobserved. Here the developer wanted to give a first information about this condition and raise awareness about it. The general info is then linked to the fictious Institute of Wellbeing in Rome from which a person can require help or more info.
+This website has as a main theme the **smiling depression**, a functioning depression condition that is quite spread and many times unobserved. Here the developer wanted to give a first information about this condition and raise awareness about it. The general info is then linked to the fictious Institute of Wellbeing in Rome from which a person can require help or more info.
 
 The targeted users would be:
   * someone who suffers from smiling depression
@@ -20,9 +22,6 @@ User should be able to:
 
 In order to provide a website that responds to the above mentioned user stories with the corresponding functionalities, the developer must present the smiling depression as a serious condition, the symptoms, the testimonials of this condition and give the opportunity for the user to require more info or help in that regard.
 
-
-![Responsive Mockup]() <em>here goes the image</em> 
-
 ## Features 
 ### Existing Features
 
@@ -32,66 +31,121 @@ In order to provide a website that responds to the above mentioned user stories 
   - The logo (upside down smiley) appears on the left side whilst the links to Home, Symptoms, Awareness and Contact. The current page is marked by the underlined style of the link.
   - On hover a small animation of transition appears, the font size of the link tekst increases and an elliptical shape sorrounds it.
   - On smaller screens the logo goes up in the center above the links.
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png) --navbar-
+
+  <br>
+  <details>
+    <summary>Screenshot</summary>
+    <img src="./assets/readme_images/navbar.png" width="800px">
+  </details>
+  
+  <br>
 
 - __The landing page image__
 
   - The landing includes a photograph with text overlay to allow the user to see the exact topic of the web site.
   - This section introduces the user to Smiling Depression with an image that powerfully depicts the essence of this condition - a guy's face out of focus in front of which is his smartphone with him smiling.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png) -- hero image --
+  <br>
+  <details>
+    <summary>Screenshot</summary>
+    <img src="./assets/readme_images/landing-image.png" width="600px">
+  </details>
+
+  <br>
 
 - __Short Info Section__
 
   - This section allows the user to grasp the general info about the smiling depression condition.
   - The accompanying images in a circle shaped fashion underline the info text
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png) --short info images--
+  <br>
+  <details>
+    <summary>Screenshot</summary>
+    <img src="./assets/readme_images/short-info.png" width="800px">
+  </details>
+
+  <br>
 
 - __Contact Section__
 
   - This section section appears every page, except the Contact page to which the Contact Us button is leading on click. 
   - There's an encouraging message 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png) --contact image --
+  <br>
+  <details>
+    <summary>Screenshot</summary>
+    <img src="./assets/readme_images/contact.png" width="500px">
+  </summary>
+
+  <br>
 
 - __The Address and Map__
 
   - This section gives the information about the location of the fictitious Institute for Wellbeign in Rome
   - Other than the address, there's an image of the Institute (Pantheon) and below these information there's an interactive Google Map section.
 
--- address and Google Map --
+  <br>
+  <details>
+    <summary>Screenshot</summary>
+    <img src="./assets/readme_images/address.png" width="800px">
+  </details>
+
+  <br>
 
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites of the Institute (actually leading only to the hompegaes of the respective social media sites). The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
-  - The FontAwesome icons are used on smaller and middle screens, whilst the text appears on the bigger screens.
+  - The FontAwesome icons are used on smaller and middle screens, whilst the text appears on bigger screens.
   - There's a copyright info under the links.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png) -- footer image --
+  <br>
+  <details>
+    <summary>Screenshots</summary>
+    <img src="./assets/readme_images/footer.png" width="800px">
+    <img src="./assets/readme_images/footer2.png" width="800px">
+  </details>
+  
+  <br>
 
 - __Symptoms of Smiling Depression Page__
 
   - This page main section provides articles about the most common symptoms of smiling depression. There are four articles, each represented by a title, image and a paragraph of text.
   - On bigger screens, paragraph takes 2/3 of the row, whilst image with title occupies 1/3. Every second article changes the position of the paragraph and image. On smaller screens, the image is above the paragraph and both take 100% of the width.
   
-  -- articles --
+  <br>
+  <details>
+    <summary>Screenshot</summary>
+    <img src="./assets/readme_images/articles.png" width="800px">
+  </details>
+
+  <br>
 
 - __Awareness and Testimonials about Smiling Depression Page__
 
   - This page has a distinctive video gallery that will provide the user with the YouTube videos about smiling depression. 
   - The organization of the videos is very simple - one video per row in order to make user to concentrate on each story instead of the visual appearence of the gallery. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+  <br>
+  <details>
+    <summary>Screenshot</summary>
+    <img src="./assets/readme_images/videos.png" height="500px">
+  </details>
+
+  <br>
 
 - __Contact Us Page__
 
   - This page will allow the user to send his minimal details in order to get contacted by the Institute for Wellbeign.
   - On middle sized and bigger screens, an image of a clown-like fake smile person apears on the left size of the form.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png) -- contact-us --
+  <br>
+  <details>
+    <summary>Screenshot</summary>
+    <img src="./assets/readme_images/contact-us.png" width="800px">
+  </details>
 
+  <br>
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:

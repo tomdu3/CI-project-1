@@ -1,108 +1,214 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome Tomislav Dukez,
+# Smiling Depression
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+<img src="./assets/readme_images/amiresponsive.png" width="800px">
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+## Site Info
 
-## Gitpod Reminders
+This website has as a main theme the **smiling depression**, a functioning depression condition that is quite spread and many times unobserved. Here the developer wanted to give a first information about this condition and raise awareness about it. The general info is then linked to the fictious Institute of Wellbeing in Rome from which a person can require help or more info.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+The targeted users would be:
+  * someone who suffers from smiling depression
+  * an introvert working in people-centric spaces and environments
+  * someone who is close to a person who suffers from smiling depression
+  * someone who is responsible for a wellbeing of the persons in a people-centric envrionment
 
-`python3 -m http.server`
+User should be able to:
+* easily retrieve the general info about smiling depression
+* easily retrieve the info about symptoms of smiling depression
+* retrieve info from the video testimonials and depiction of this condition
+* easily contact the Institute for Wellbeing in Rome 
 
-A blue button should appear to click: _Make Public_,
+In order to provide a website that responds to the above mentioned user stories with the corresponding functionalities, the developer must present the smiling depression as a serious condition, the symptoms, the testimonials of this condition and give the opportunity for the user to require more info or help in that regard.
 
-Another blue button should appear to click: _Open Browser_.
+## Features 
+### Existing Features
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- __Navigation Bar__
 
-A blue button should appear to click: _Make Public_,
+  - Featured on all four pages, the full responsive navigation bar includes the Logo and links to the Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - The logo (upside down smiley) appears on the left side whilst the links to Home, Symptoms, Awareness and Contact. The current page is marked by the underlined style of the link.
+  - On hover a small animation of transition appears, the font size of the link tekst increases and an elliptical shape sorrounds it.
+  - On smaller screens the logo goes up in the center above the links.
 
-Another blue button should appear to click: _Open Browser_.
+  <br>
+  <details>
+    <summary>Screenshot</summary>
+    <img src="./assets/readme_images/navbar.png" width="800px">
+  </details>
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+  <br>
 
-To log into the Heroku toolbelt CLI:
+- __The landing page image__
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+  - The landing includes a photograph with text overlay to allow the user to see the exact topic of the web site.
+  - This section introduces the user to Smiling Depression with an image that powerfully depicts the essence of this condition - a guy's face out of focus in front of which is his smartphone with him smiling.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+  <br>
+  <details>
+    <summary>Screenshot</summary>
+    <img src="./assets/readme_images/landing-image.png" width="600px">
+  </details>
 
-------
+  <br>
 
-## Release History
+- __Short Info Section__
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+  - This section allows the user to grasp the general info about the smiling depression condition.
+  - The accompanying images in a circle shaped fashion underline the info text
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+  <br>
+  <details>
+    <summary>Screenshot</summary>
+    <img src="./assets/readme_images/short-info.png" width="800px">
+  </details>
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+  <br>
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+- __Contact Section__
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+  - This section section appears every page, except the Contact page to which the Contact Us button is leading on click. 
+  - There's an encouraging message 
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+  <br>
+  <details>
+    <summary>Screenshot</summary>
+    <img src="./assets/readme_images/contact.png" width="500px">
+  </summary>
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+  <br>
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+- __The Address and Map__
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+  - This section gives the information about the location of the fictitious Institute for Wellbeign in Rome
+  - Other than the address, there's an image of the Institute (Pantheon) and below these information there's an interactive Google Map section.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+  <br>
+  <details>
+    <summary>Screenshot</summary>
+    <img src="./assets/readme_images/address.png" width="800px">
+  </details>
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+  <br>
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+- __The Footer__ 
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+  - The footer section includes links to the relevant social media sites of the Institute (actually leading only to the hompegaes of the respective social media sites). The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
+  - The FontAwesome icons are used on smaller and middle screens, whilst the text appears on bigger screens.
+  - There's a copyright info under the links.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+  <br>
+  <details>
+    <summary>Screenshots</summary>
+    <img src="./assets/readme_images/footer.png" width="800px">
+    <img src="./assets/readme_images/footer2.png" width="800px">
+  </details>
+  
+  <br>
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+- __Symptoms of Smiling Depression Page__
 
-------
+  - This page main section provides articles about the most common symptoms of smiling depression. There are four articles, each represented by a title, image and a paragraph of text.
+  - On bigger screens, paragraph takes 2/3 of the row, whilst image with title occupies 1/3. Every second article changes the position of the paragraph and image. On smaller screens, the image is above the paragraph and both take 100% of the width.
+  
+  <br>
+  <details>
+    <summary>Screenshot</summary>
+    <img src="./assets/readme_images/articles.png" width="800px">
+  </details>
 
-## FAQ about the uptime script
+  <br>
 
-**Why have you added this script?**
+- __Awareness and Testimonials about Smiling Depression Page__
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+  - This page has a distinctive video gallery that will provide the user with the YouTube videos about smiling depression. 
+  - The organization of the videos is very simple - one video per row in order to make user to concentrate on each story instead of the visual appearence of the gallery. 
 
-**How will this affect me?**
+  <br>
+  <details>
+    <summary>Screenshot</summary>
+    <img src="./assets/readme_images/videos.png" height="500px">
+  </details>
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+  <br>
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+- __Contact Us Page__
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+  - This page will allow the user to send his minimal details in order to get contacted by the Institute for Wellbeign.
+  - On middle sized and bigger screens, an image of a clown-like fake smile person apears on the left size of the form.
 
-**So….?**
+  <br>
+  <details>
+    <summary>Screenshot</summary>
+    <img src="./assets/readme_images/contact-us.png" width="800px">
+  </details>
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+  <br>
 
-**Can I opt out?**
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+### Features Left to Implement
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+- __Short Testimonials Page__
+  - This could be a nice interactive page in where the testimonials of users who visited the page would be presented. The users would be invited to share their experiences about the smiling depression, the Institute of Wellbeing and the website content.
 
-**Anything more?**
+## Testing 
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
----
+In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
-Happy coding!
+You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+
+If this section grows too long, you may want to split it off into a separate file and link to it from here.
+
+
+### Validator Testing 
+
+- HTML
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftomdu3.github.io%2FCI-project-1%2F)
+       
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftomdu3.github.io%2FCI-project-1%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+    <p>
+      <a href="https://jigsaw.w3.org/css-validator/check/referer">
+          <img style="border:0;width:88px;height:31px"
+              src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+              alt="Valid CSS!" />
+      </a>
+    </p>
+
+### Unfixed Bugs
+
+You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+
+## Deployment
+
+This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the **Settings** tab 
+  - From the left side menu select **Pages**.
+  - From the source section drop-down menu, select the **main** branch and click on **save**.
+  - Once the main branch has been selected and saved, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+The live link can be found here - https://tomdu3.github.io/CI-project-1/ 
+
+
+## Credits 
+
+In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
+
+You can break the credits section up into Content and Media, depending on what you have included in your project. 
+
+### Content 
+
+- The text for the Home page was taken from Wikipedia Article A
+- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+
+### Media
+
+- The photos used on the home and sign up page are from This Open Source site
+- The images used for the gallery page were taken from this other open source site

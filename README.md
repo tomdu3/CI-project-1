@@ -1,66 +1,96 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-# Love Running
+# Smiling Depression
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+## Site Info
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+This website has as a main theme the **smiling sepression**, a functioning depression condition that is quite spread and many times unobserved. Here the developer wanted to give a first information about this condition and raise awareness about it. The general info is then linked to the fictious Institute of Wellbeing in Rome from which a person can require help or more info.
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+The targeted users would be:
+  * someone who suffers from smiling depression
+  * an introvert working in people-centric spaces and environments
+  * someone who is close to a person who suffers from smiling depression
+  * someone who is responsible for a wellbeing of the persons in a people-centric envrionment
+
+User should be able to:
+* easily retrieve the general info about smiling depression
+* easily retrieve the info about symptoms of smiling depression
+* retrieve info from the video testimonials and depiction of this condition
+* easily contact the Institute for Wellbeing in Rome 
+
+In order to provide a website that responds to the above mentioned user stories with the corresponding functionalities, the developer must present the smiling depression as a serious condition, the symptoms, the testimonials of this condition and give the opportunity for the user to require more info or help in that regard.
+
+
+![Responsive Mockup]() <em>here goes the image</em> 
 
 ## Features 
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
 ### Existing Features
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
-
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+  - Featured on all four pages, the full responsive navigation bar includes the Logo and links to the Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - The logo (upside down smiley) appears on the left side whilst the links to Home, Symptoms, Awareness and Contact. The current page is marked by the underlined style of the link.
+  - On hover a small animation of transition appears, the font size of the link tekst increases and an elliptical shape sorrounds it.
+  - On smaller screens the logo goes up in the center above the links.
+![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png) --navbar-
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The landing includes a photograph with text overlay to allow the user to see the exact topic of the web site.
+  - This section introduces the user to Smiling Depression with an image that powerfully depicts the essence of this condition - a guy's face out of focus in front of which is his smartphone with him smiling.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png) -- hero image --
 
-- __Club Ethos Section__
+- __Short Info Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - This section allows the user to grasp the general info about the smiling depression condition.
+  - The accompanying images in a circle shaped fashion underline the info text
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png) --short info images--
 
-- __Meetup Times section__
+- __Contact Section__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This section section appears every page, except the Contact page to which the Contact Us button is leading on click. 
+  - There's an encouraging message 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png) --contact image --
+
+- __The Address and Map__
+
+  - This section gives the information about the location of the fictitious Institute for Wellbeign in Rome
+  - Other than the address, there's an image of the Institute (Pantheon) and below these information there's an interactive Google Map section.
+
+-- address and Google Map --
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer section includes links to the relevant social media sites of the Institute (actually leading only to the hompegaes of the respective social media sites). The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
+  - The FontAwesome icons are used on smaller and middle screens, whilst the text appears on the bigger screens.
+  - There's a copyright info under the links.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png) -- footer image --
 
-- __Gallery__
+- __Symptoms of Smiling Depression Page__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - This page main section provides articles about the most common symptoms of smiling depression. There are four articles, each represented by a title, image and a paragraph of text.
+  - On bigger screens, paragraph takes 2/3 of the row, whilst image with title occupies 1/3. Every second article changes the position of the paragraph and image. On smaller screens, the image is above the paragraph and both take 100% of the width.
+  
+  -- articles --
+
+- __Awareness and Testimonials about Smiling Depression Page__
+
+  - This page has a distinctive video gallery that will provide the user with the YouTube videos about smiling depression. 
+  - The organization of the videos is very simple - one video per row in order to make user to concentrate on each story instead of the visual appearence of the gallery. 
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
-- __The Sign Up Page__
+- __Contact Us Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to send his minimal details in order to get contacted by the Institute for Wellbeign.
+  - On middle sized and bigger screens, an image of a clown-like fake smile person apears on the left size of the form.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png) -- contact-us --
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
@@ -68,7 +98,8 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ### Features Left to Implement
 
-- Another feature idea
+- __Short Testimonials Page__
+- This could be a nice interactive page in where the testimonials of users who visited the page would be presented. The users would be invited to share their experiences about the smiling depression, the Institute of Wellbeing and the website content.
 
 ## Testing 
 

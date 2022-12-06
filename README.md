@@ -36,6 +36,8 @@ In order to provide a website that responds to the above mentioned user stories 
   <details>
     <summary>Screenshot</summary>
     <img src="./assets/readme_images/navbar.png" width="800px">
+    <img src="./assets/readme_images/navbar2.png" width="800px">
+    <img src="./assets/readme_images/navbar3.png" width="800px">
   </details>
 
   <br>
@@ -148,20 +150,14 @@ In order to provide a website that responds to the above mentioned user stories 
   <br>
 
 
-### Features Left to Implement
+### Features to Implement
 
 - __Short Testimonials Page__
   - This could be a nice interactive page in where the testimonials of users who visited the page would be presented. The users would be invited to share their experiences about the smiling depression, the Institute of Wellbeing and the website content.
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+**yet to add**
 
 
 ### Validator Testing 
@@ -181,11 +177,9 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+**yet to add**
 
 ## Deployment
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the **Settings** tab 
@@ -198,17 +192,15 @@ The live link can be found here - https://tomdu3.github.io/CI-project-1/
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- Navbar was made by following the instructions of ![Flexbox Navbar Mobile First Responsive Tutorial](https://youtu.be/yXhfUCXy2j4)
+- Google Maps were implemented with the help of ![How to embed a Google Map into a web page](https://extension.umaine.edu/plugged-in/technology-marketing-communications/web/tips-for-web-managers/embed-map/)
+- Instructions on how to implement form validation on the Contact Us page was taken from the Code Institute Course.
+- The icons used on the pages were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The photos used on the home and sign up page are from ![Pexels](https://www.pexels.com) and ![Unsplash](https://unsplash.com)
+- The image of Panhteon was taken from the ![Wikipaedia Media](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg/298px-Pantheon_%28Rome%29_-_Right_side_and_front.jpg)
+- The videos on the Awareness page are taken from ![Youtube](https://www.youtube.com)

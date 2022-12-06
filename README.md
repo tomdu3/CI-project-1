@@ -194,6 +194,8 @@ The live link can be found here - https://tomdu3.github.io/CI-project-1/
 
 ### Content 
 
+- Font used is Poppins from [Google Fonts](https://fonts.google.com/)
+- Colour Palette used is from Sky Palettes of the site [W3Schools][https://www.w3schools.com/colors/colors_palettes.asp]
 - Navbar was made by following the instructions of [Flexbox Navbar Mobile First Responsive Tutorial](https://youtu.be/yXhfUCXy2j4)
 - Google Maps were implemented with the help of [How to embed a Google Map into a web page](https://extension.umaine.edu/plugged-in/technology-marketing-communications/web/tips-for-web-managers/embed-map/)
 - Instructions on how to implement form validation on the Contact Us page was taken from the Code Institute Course.

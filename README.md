@@ -1,7 +1,7 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 # Smiling Depression
-
+## Project Portfolio 1 of Diploma in Full Stack Software Development at Code Institute
 <img src="./assets/readme_images/amiresponsive.png" width="800px">
 
 ## Site Info
@@ -9,16 +9,16 @@
 This website has as a main theme the **smiling depression**, a functioning depression condition that is quite spread and many times unobserved. Here the developer wanted to give a first information about this condition and raise awareness about it. The general info is then linked to the fictious Institute of Wellbeing in Rome from which a person can require help or more info.
 
 The targeted users would be:
-  * someone who suffers from smiling depression
-  * an introvert working in people-centric spaces and environments
-  * someone who is close to a person who suffers from smiling depression
-  * someone who is responsible for a wellbeing of the persons in a people-centric envrionment
+  - someone who suffers from smiling depression
+  - an introvert working in people-centric spaces and environments
+  - someone who is close to a person who suffers from smiling depression
+  - someone who is responsible for a wellbeing of the persons in a people-centric envrionment
 
 User should be able to:
-* easily retrieve the general info about smiling depression
-* easily retrieve the info about symptoms of smiling depression
-* retrieve info from the video testimonials and depiction of this condition
-* easily contact the Institute for Wellbeing in Rome 
+  - easily retrieve the general info about smiling depression
+  - easily retrieve the info about symptoms of smiling depression
+  - retrieve info from the video testimonials and depiction of this condition
+  - easily contact the Institute for Wellbeing in Rome 
 
 In order to provide a website that responds to the above mentioned user stories with the corresponding functionalities, the developer must present the smiling depression as a serious condition, the symptoms, the testimonials of this condition and give the opportunity for the user to require more info or help in that regard.
 
@@ -50,7 +50,7 @@ In order to provide a website that responds to the above mentioned user stories 
   <br>
   <details>
     <summary>Screenshot</summary>
-    <img src="./assets/readme_images/landing-image.png" width="600px">
+    <img src="./assets/readme_images/landing-image.png" width="800px">
   </details>
 
   <br>
@@ -198,9 +198,28 @@ The live link can be found here - https://tomdu3.github.io/CI-project-1/
 - Google Maps were implemented with the help of [How to embed a Google Map into a web page](https://extension.umaine.edu/plugged-in/technology-marketing-communications/web/tips-for-web-managers/embed-map/)
 - Instructions on how to implement form validation on the Contact Us page was taken from the Code Institute Course.
 - The icons used on the pages were taken from [Font Awesome](https://fontawesome.com/)
+- Texts are taken and adapted from the sites:
+  - [Medical News Today](https://www.medicalnewstoday.com/articles/smiling-depression)
+  - [Webmd](https://www.webmd.com/depression/smiling-depression-overview)
+  - [Davidson Institute](https://www.davidsongifted.org/gifted-blog/dabrowskis-theory-and-existential-depression-in-gifted-children-and-adults/)
+
 
 ### Media
 
-- The photos used on the home and sign up page are from [Pexels](https://www.pexels.com) and [Unsplash](https://unsplash.com)
-- The image of Panhteon was taken from the [Wikipaedia Media](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg/298px-Pantheon_%28Rome%29_-_Right_side_and_front.jpg)
-- The videos on the Awareness page are taken from [Youtube](https://www.youtube.com)
+- The photos used on the home and sign up page are from [Pexels](https://www.pexels.com) and [Unsplash](https://unsplash.com):
+  - [Photo by Antoine Beauvillain](https://unsplash.com/@antoinebeauvillain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  - [Photo by Karolina Grabowska from Pexels](https://www.pexels.com/photo/photo-of-person-crying-4472021/)
+  - [Photo by Ketut Subiyanto from Pexels](https://www.pexels.com/photo/man-in-yellow-crew-neck-t-shirt-forcing-a-smiley-look-4584534/)
+  - [Photo by Yan Krukov](https://www.pexels.com/photo/a-woman-need-help-7640764/)
+  - [Photo by Caju Gomes](https://unsplash.com/photos/QDq3YliZg48?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+  - [Photo by Nicholas Kusuma](https://unsplash.com/photos/xb2DaEeX8jk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+  - [Photo by Khoa Võ](https://www.pexels.com/photo/ethnic-woman-looking-at-fish-in-aquarium-4958618/)
+  - [Photo by Pia Kafanke](https://www.pexels.com/photo/woman-with-white-and-red-face-paint-3807702/)
+  - [Photo by Gratisography](https://www.pexels.com/photo/man-person-people-emotions-1990/)
+- The image of Panhteon was taken from [Wikipaedia Media](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg/298px-Pantheon_%28Rome%29_-_Right_side_and_front.jpg)
+- The videos on the Awareness page are taken from [Youtube](https://www.youtube.com):
+  - [What is Smiling Depression and What Makes It Dangerous?](https://youtu.be/Mgvd_fZfis0)
+  - [Smiling Through Depression?](https://youtu.be/Kx3dpO6ys5s)
+  - [This is what smiling depression looks like Slay Motivation](https://www.youtube.com/shorts/q5sSXJSVOn4)
+  - [Smiling Depression Short film](https://www.youtube.com/watch?v=mSq4NlCg3u8)
+  - [UNSPOKEN (2018) - Award Winning Short Film About Depression](https://youtu.be/k269NkuKK7Y)

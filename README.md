@@ -194,13 +194,13 @@ The live link can be found here - https://tomdu3.github.io/CI-project-1/
 
 ### Content 
 
-- Navbar was made by following the instructions of ![Flexbox Navbar Mobile First Responsive Tutorial](https://youtu.be/yXhfUCXy2j4)
-- Google Maps were implemented with the help of ![How to embed a Google Map into a web page](https://extension.umaine.edu/plugged-in/technology-marketing-communications/web/tips-for-web-managers/embed-map/)
+- Navbar was made by following the instructions of [Flexbox Navbar Mobile First Responsive Tutorial](https://youtu.be/yXhfUCXy2j4)
+- Google Maps were implemented with the help of [How to embed a Google Map into a web page](https://extension.umaine.edu/plugged-in/technology-marketing-communications/web/tips-for-web-managers/embed-map/)
 - Instructions on how to implement form validation on the Contact Us page was taken from the Code Institute Course.
 - The icons used on the pages were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
-- The photos used on the home and sign up page are from ![Pexels](https://www.pexels.com) and ![Unsplash](https://unsplash.com)
-- The image of Panhteon was taken from the ![Wikipaedia Media](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg/298px-Pantheon_%28Rome%29_-_Right_side_and_front.jpg)
-- The videos on the Awareness page are taken from ![Youtube](https://www.youtube.com)
+- The photos used on the home and sign up page are from [Pexels](https://www.pexels.com) and [Unsplash](https://unsplash.com)
+- The image of Panhteon was taken from the [Wikipaedia Media](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg/298px-Pantheon_%28Rome%29_-_Right_side_and_front.jpg)
+- The videos on the Awareness page are taken from [Youtube](https://www.youtube.com)

@@ -288,6 +288,7 @@ footer {
 
 .articles > h1 {
   text-align: center;
+  padding: 20px 0;
 }
 .article-heading {
   margin: auto;
@@ -521,10 +522,15 @@ input, input::placeholder, textarea {
         flex-direction: row-reverse;
       }
       
+      .articles {
+        padding: 10px;
+      }
+
       .article-heading {
         margin: 0 10px;
         flex: 1;
         padding: 1rem;
+        align-self: center;
       }
 
       .article-title {
@@ -621,6 +627,19 @@ input, input::placeholder, textarea {
     .contact-inner {
       width: 50%;
       max-width: 600px;
+    }
+
+    .articles {
+      padding: 1vh 4vw;
+    }
+
+    .articles h1 {
+      font-size: 2rem;
+    }
+
+    .article-text {
+      font-size: 1.4rem;
+      line-height: 2rem;
     }
 
     .video-container {

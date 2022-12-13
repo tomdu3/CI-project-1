@@ -37,7 +37,7 @@ nav {
 #logo {
     font-size: 3rem;
     transform: rotate(180deg);
-    color: darkblue;
+    color: #354a54;
     margin: 0 auto;
     padding-left: 20px;
 }
@@ -58,7 +58,7 @@ nav {
 }
 
 .nav-links a {
-    color: darkblue;
+    color: #354a54;
     display: block;
     text-decoration: none;
     letter-spacing: 0.2rem;
@@ -96,6 +96,7 @@ nav {
   }
   
   #hero-text {
+    font-family: 'Montserrat Alternates';
     font-size: 1.1em;
     color: black;
     margin: auto;
@@ -144,6 +145,7 @@ nav {
 
   /* Contact */
 .contact {
+    font-family: 'Montserrat Alternates', sans-serif, monospace;
     margin: 40px auto 0 auto;
     width: 80%;
     border: 3px solid  #b7d7e8;
@@ -153,21 +155,26 @@ nav {
     text-align: center;
     font-size: 1rem;
   }
+
+  .contact p {
+    font-size: 1.2rem;
+  }
  
   .contact button {
+    font-family: 'Montserrat Alternates';
     font-size: 16px;
     font-weight: bold;
-    color: black;
+    color: #fff;
     text-shadow: 1px 1px #87bdd8;
-    background-color: #daebe8;
+    background-color: #87bdd8;
     letter-spacing: 2px;
     border-radius: 25px;
     padding: 20px;
   }
 
   .contact button:hover {
-    background-color: #87bdd8;
-    color: #fff;
+    background-color: #99aebb;
+    color: #000;
   }
 
   /* location info */
@@ -252,7 +259,7 @@ footer {
   }
   
   .social-networks a {
-    color: darkblue;
+    color: #354a54;
     text-decoration: none;
   }
   
@@ -261,7 +268,7 @@ footer {
   }
 
   .copyright {
-    color: darkblue;
+    color: #354a54;
     display: flex;
     justify-content: center;
     background-color: #cfe0e8;

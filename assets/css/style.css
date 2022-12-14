@@ -165,19 +165,19 @@ nav {
     font-size: 1.2rem;
   }
  
-  .contact button {
+  .contact button, #submit {
     font-family: 'Montserrat Alternates';
-    font-size: 16px;
+    font-size: 1.2rem;
     font-weight: bold;
     color: #fff;
     text-shadow: 1px 1px #87bdd8;
     background-color: #87bdd8;
     letter-spacing: 2px;
     border-radius: 25px;
-    padding: 20px;
+    padding: 10px;
   }
 
-  .contact button:hover {
+  .contact button:hover, #submit:hover {
     background-color: #99aebb;
     color: #000;
   }
@@ -230,7 +230,6 @@ nav {
 }
 
 .location-map iframe{
-
     left:0;
     top:0;
     height:100%;
@@ -260,7 +259,6 @@ footer {
   
   .social-networks li {
     list-style: none;
-  
   }
   
   .social-networks a {
@@ -423,8 +421,16 @@ textarea {
   resize: none;
 }
 
+.submit-button {
+  margin-top: 1px;
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+}
+
 #submit {
-  width: 100px;
+  width: 150px;
+  padding: 5px;
 }
 
 input, input::placeholder, textarea {

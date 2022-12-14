@@ -25,7 +25,7 @@ h1, h2, h3 {
 
 /* nav-bar */
 nav {
-    padding: 20px;
+    padding: 20px 30px;
     background-color: #87bdd8;
     display: flex;
     flex-wrap: wrap;
@@ -286,7 +286,7 @@ footer {
 .articles {
   display: flex;
   flex-direction: column;
-  background-color:#b7d7e86c;
+  background-color:#99aebb;
 }
 
 .articles > h1 {
@@ -304,7 +304,7 @@ footer {
 .article-title {
   position: absolute;
   color: #fff;
-  background-color: #cfe0e898;
+  background-color: #99aebb98;
   background-clip: content-box;
   text-align: center;
   margin: 10px 5%;
@@ -313,6 +313,7 @@ footer {
 
 .article-text {
   text-align: center;
+  padding: 10px 10px;
 }
 
 .article-title > h2 {
@@ -334,11 +335,6 @@ footer {
 #article-4 > .article-heading {
   background-image: url('../images/pexels-yan-krukov-7640764.webp');
   }
-
-.article-text {
-  padding: 0 10px;
-  text-align: justify;
-}
 
 /* videos gallery */
 .videos-heading {
@@ -440,6 +436,10 @@ input, input::placeholder, textarea {
 
 /* media queries for min-widths of 600px and 900px */
   @media (min-width: 600px) {
+
+    nav {
+      padding: 20px;
+    }
 
     .navbar {
         line-height: 1.5rem;
@@ -566,11 +566,15 @@ input, input::placeholder, textarea {
       .article-text {
         flex: 2;
         margin: 0;
-        text-align: justify;
+        text-align: left;
         justify-content: center;
         font-size: larger;
       }
       
+      .second .article-text {
+        text-align: right;
+      }
+
       .article-text > p {
         margin: auto;
         padding: 1rem; 

@@ -206,6 +206,7 @@ nav {
   }
   
   .address h2 {
+    font-size: 1.2rem;
     letter-spacing: 2px;
     margin-bottom: 0;
   }
@@ -507,21 +508,17 @@ input, input::placeholder, textarea {
     
     .address > div {
         padding-top: 30px;
-        padding-left: 30px;
-        font-size: large;
+        padding-right: 30px;
         display: flex;
       }
       
-      .address h2 {
-        text-align: center;
-      }
-
       .address hr {
         margin-left: 10px;
         margin-right: 10px;
       }
+
       #address-image {
-        max-width: 300px;
+        max-width: 200px;
       }
 
       .articles {
@@ -606,7 +603,7 @@ input, input::placeholder, textarea {
         padding-right: 30px;
       }
 
-      .address h3  {
+      .address h2  {
         text-align: right;
       }
 

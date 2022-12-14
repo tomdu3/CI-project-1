@@ -43,7 +43,6 @@ nav {
     transform: rotate(180deg);
     color: #354a54;
     margin: 0 auto;
-    padding-left: 20px;
 }
 
 .nav-links{
@@ -427,8 +426,10 @@ input, input::placeholder, textarea {
 
 /* media queries for min-widths of 600px and 900px */
   @media (min-width: 600px) {
+
     .navbar {
         line-height: 1.5rem;
+        font-size: 2rem;
     }
 
     .nav-links {
@@ -598,7 +599,7 @@ input, input::placeholder, textarea {
     .videos-heading {
       font-size: 2rem;
     }
-    
+
     iframe.video {
       width: 100%;
       height: 400px;
@@ -606,8 +607,13 @@ input, input::placeholder, textarea {
 }
 
 @media (min-width: 900px) {
+
     .navbar {
         justify-content: space-between;
+    }
+
+    #logo {
+      padding-left: 20px;
     }
 
     .nav-links {

@@ -19,6 +19,10 @@ body {
     box-sizing: inherit;
 }
 
+h1, h2, h3 {
+  font-family: 'Montserrat Alternates', Tahoma, sans-serif;
+}
+
 /* nav-bar */
 nav {
     padding: 20px;
@@ -96,7 +100,6 @@ nav {
   }
   
   #hero-text {
-    font-family: 'Montserrat Alternates';
     font-size: 1.1em;
     color: black;
     margin: auto;
@@ -290,6 +293,7 @@ footer {
   text-align: center;
   padding: 20px 0;
 }
+
 .article-heading {
   margin: auto;
   background-size: cover; 
@@ -305,6 +309,10 @@ footer {
   text-align: center;
   margin: 10px 5%;
   text-shadow: 1px 1px #000;
+}
+
+.article-text {
+  text-align: center;
 }
 
 .article-title > h2 {

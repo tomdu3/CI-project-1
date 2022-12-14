@@ -359,6 +359,10 @@ iframe.video {
 }
 
 /* contact section */
+.contact-section {
+  background-color: #87bdd855;
+}
+
 .contact-us > h1 {
   padding-top: 20px;
   text-align: center;

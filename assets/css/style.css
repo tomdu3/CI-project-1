@@ -397,6 +397,7 @@ iframe.video {
   flex-direction: column;
   flex-wrap: nowrap;
   width: 100%;
+  max-width: 400px;
 }
 
 .contact-section form div {
@@ -576,29 +577,7 @@ input, input::placeholder, textarea {
         margin: auto;
         padding: 1rem; 
       }
-      
-
-    #contact-image {
-      display: unset;
-      margin: 0 auto;
-      padding-top: 50px;
-      padding-right: 20px;
-      background-image: url('../images/pexels-pia-kafanke-3807702-smaller.webp');
-      width: 80%;
-      height: 65vh;
-      background-size: contain;
-      background-position: center;
-      background-repeat: no-repeat;
-    }
-
-      .contact-inner {
-        width: 50%;
-      }
-
-      .contact {
-        max-width: 400px;
-      }
-      
+         
       .address {
         padding-right: 30px;
       }
@@ -696,5 +675,26 @@ input, input::placeholder, textarea {
     iframe.video {
       width: 90%;
     }
+
+    #contact-image {
+      display: unset;
+      margin: 0 auto;
+      padding-top: 50px;
+      padding-right: 20px;
+      background-image: url('../images/pexels-pia-kafanke-3807702-smaller.webp');
+      width: 70%;
+      height: 65vh;
+      background-size: contain;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+
+      .contact-inner {
+        width: 50%;
+      }
+
+      .contact {
+        max-width: 400px;
+      }
     
 }

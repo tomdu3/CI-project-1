@@ -285,7 +285,7 @@ footer {
 .articles {
   display: flex;
   flex-direction: column;
-  background-color:#99aebb;
+  background-color:#99aebb99;
 }
 
 .articles > h1 {

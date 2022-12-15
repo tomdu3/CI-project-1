@@ -607,7 +607,6 @@ input, input::placeholder, textarea {
 
   .navbar {
     justify-content: space-between;
-    font-size: 1.7rem;
   }
 
   #logo {
@@ -682,7 +681,7 @@ input, input::placeholder, textarea {
   .contact-section {
     width: 80%;
   }
-  
+
   #contact-image {
     display: unset;
     margin: 0 auto;

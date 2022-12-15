@@ -679,6 +679,10 @@ input, input::placeholder, textarea {
     width: 90%;
   }
 
+  .contact-section {
+    width: 80%;
+  }
+  
   #contact-image {
     display: unset;
     margin: 0 auto;

@@ -114,7 +114,43 @@ The website needs to enable the **user** to:
 The website needs to enable the **site manager** to:
 - Gather the contact details of the site visitor in order to contact them.
 
+#### Scope
+The scope plane is about defining requirements based on the goals established on the strategy plane. Using the information in the strategy plane, the identified required features have been broken into the following two categories.
+- Content Requirements:
+    - The user will be looking for:
+        - General information about smiling depression
+        - 4 symptoms of smiling depression
+        - Testimonial about personal experience of smiling depression
+        - Short documentary about famous people who suffered from smiling depression
+        - Short film about smiling depression
 
+- Functionality Requirements:
+    - The user will be able to:
+        - easily navigate the site to find the information they require.
+        - contact the Institute for Wellbeing to acquire more info or require help.
+
+#### Structure
+The information above was then organized in a hierarchical tree structure, a site map, showing how users can navigate through the site with ease and efficiency, with the following results:
+
+
+<details>
+<summary>Site Structure</summary>
+
+![Site Structure](assets/readme_images/site_structure.png)
+
+</details>
+
+
+#### Skeleton
+Wireframes were made as presentation of the site pages while keeping a positive user experience in mind. They were created using an online version of [Figma](https://figma.com/).
+
+
+<details>
+<summary>Figma Wireframes</summary>
+    
+![Site Wireframes](assets/readme_images/wireframes.png)
+
+</details>    
 
 ## Features 
 ### Existing Features

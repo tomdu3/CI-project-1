@@ -4,22 +4,79 @@
 ## Project Portfolio 1 of Diploma in Full Stack Software Development at Code Institute
 <img src="./assets/readme_images/amiresponsive.png" width="800px">
 
+[View the live site](https://tomdu3.github.io/CI-project-1/)
+
+## Table of contents
+1. [Site Info](#site-info)
+2. [UX](#UX)
+    1. [Ideal User Demographic](#Ideal-User-Demographic)
+    2. [User Stories](#User-Stories)
+    3. [Development Planes](#Development-Planes)
+    4. [Design](#Design)
+3. [Features](#Features)
+    1. [Design Features](#Design-Features) 
+    2. [Existing Features](#Existing-Features)
+    3. [Features to Implement in the future](#Features-to-Implement-in-the-future)
+4. [Issues and Bugs](#Issues-and-Bugs)
+5. [Technologies Used](#Technologies-Used)
+     1. [Main Languages Used](#Main-Languages-Used)
+     3. [Frameworks, Libraries & Programs Used](#Frameworks,-Libraries-&-Programs-Used)
+6. [Testing](#Testing)
+     1. [Testing.md](TESTING.md)
+7. [Deployment](#Deployment)
+     1. [Deploying on GitHub Pages](#Deploying-on-GitHub-Pages)
+8. [Credits](#Credits)
+     1. [Content](#Content)
+     2. [Media](#Media)
+     3. [Code](#Code)
+9. [Acknowledgements](#Acknowledgements)
+
 ## Site Info
 
 This website has as a main theme the **smiling depression**, a functioning depression condition that is quite spread and many times unobserved. Here the developer wanted to give a first information about this condition and raise awareness about it. The general info is then linked to the fictious Institute of Wellbeing in Rome from which a person can require help or more info.
 
-The targeted users would be:
-  - someone who suffers from smiling depression
-  - an introvert working in people-centric spaces and environments
-  - someone who is close to a person who suffers from smiling depression
-  - someone who is responsible for a wellbeing of the persons in a people-centric envrionment
+This website was made for the first of five Milestone projects required to complete the Diploma in Software development program at The Code Institute. 
 
-User should be able to:
-  - easily retrieve the general info about smiling depression
-  - easily retrieve the info about symptoms of smiling depression
-  - retrieve info from the video testimonials and depiction of this condition
-  - easily contact the Institute for Wellbeing in Rome 
+The main requirements of this project are to build a responsive and static front-end site to present useful information to users using all the technologies learned so far, namely HTML5 and CSS3. The site is to contain no less than three pages.
 
+[Back to top ⇧](#smiling-depression)
+
+## UX
+### Ideal User Demographic
+The ideal user for this website is:
+* Current user
+* New user
+* Person suffering of smiling depression
+* Person working/living with someone suffering of smiling depression
+
+### User-Stories
+#### Current User Goals
+As a current user:
+1. I want to find general information about smiling depression and its symptoms.
+2. I want to easily navigate through the site and access the information I require.
+3. I want to easily navigate to content I have previously viewed within a small number of steps.
+4. As a current user, I want to easily find the info and contact form for the Institute for Wellbeing.
+
+#### New User Goals
+As a new user:
+1. I want to easily navigate the entire site intuitively. 
+2. I want the information I seek to be easily accessible and relevant.
+3. I want attractive and relevant visuals and colour schemes that work with the content.
+4. I want to easily find the info and contact form for the Institute for Wellbeing.
+
+#### Goals of a Person Suffering of Smiling Depression
+As someone who suffers of smiling depression:
+1. I want to factually correct and relevant information about smiling depression and its symptoms.
+2. I want the information I seek to be easily accessible and relevant.
+3. I want to easily be able to find info about the Institute for Wellbeing and make contact
+
+#### Goals of a Person working/living with someone suffering of smiling depression
+As someone who is working/living with a depressed person:
+1. I want to factually correct and relevant information about smiling depression and its symptoms.
+2. I want the information I seek to be easily accessible and relevant.
+3. I want to easily be able to find info about the Institute for Wellbeing and make contact on behalf of the person suffering of smiling depression.
+
+### Development-Planes
 In order to provide a website that responds to the above mentioned user stories with the corresponding functionalities, the developer must present the smiling depression as a serious condition, the symptoms, the testimonials of this condition and give the opportunity for the user to require more info or help in that regard.
 
 ## Features 

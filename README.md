@@ -79,6 +79,43 @@ As someone who is working/living with a depressed person:
 ### Development-Planes
 In order to provide a website that responds to the above mentioned user stories with the corresponding functionalities, the developer must present the smiling depression as a serious condition, the symptoms, the testimonials of this condition and give the opportunity for the user to require more info or help in that regard.
 
+#### Strategy
+Strategy incorporates user needs as well as product objectives. This website will focus on the following target audience, divided into three main categories:
+- **Roles:**
+    - Current users
+    - New users
+    - Person suffering of smiling depression
+    - Person working/living with someone suffering of smiling depression
+
+- **Demographic:**
+    - All ages
+    - People working in professional environment
+    - People exposed to stress on work
+
+- **Psychographic:**
+    - Lifestyles:
+        - Professionals working with other people
+    - Personality/Attitudes:
+        - Ingoing
+        - Focused
+        - Creative
+        - Overworking
+    - Values:
+        - Wellbeing of a person
+        - Care for someone in difficulty
+
+The website needs to enable the **user** to:
+- Retrieve the desired information about:
+    - General info about smiling depression
+    - Symptoms of smiling depression
+    - Videos & Testimonials about smiling depression
+    - Contact and Form to get in touch with the Institute for Wellbeing
+    
+The website needs to enable the **site manager** to:
+- Gather the contact details of the site visitor in order to contact them.
+
+
+
 ## Features 
 ### Existing Features
 

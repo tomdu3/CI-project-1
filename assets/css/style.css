@@ -74,7 +74,8 @@ nav {
 
 .nav-links  a:hover {
   background-color: #acc3e8;
-  border-radius: 50%;
+  border-radius: 40%;
+  padding: 0.5rem
   transform: scale(1.2);
 }
 

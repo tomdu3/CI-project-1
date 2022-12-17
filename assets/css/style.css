@@ -73,7 +73,7 @@ nav {
 }
 
 .nav-links  a:hover {
-  background-color: skyblue;
+  background-color: #647cd7;
   border-radius: 50%;
   transform: scale(1.2);
 }
@@ -149,7 +149,7 @@ nav {
 
   /* Contact */
 .contact {
-  font-family: 'Montserrat Alternates', sans-serif, monospace;
+  font-family: 'Montserrat Alternates', Tahoma, sans-serif;
   margin: 40px auto 0 auto;
   width: 80%;
   border: 3px solid  #b7d7e8;
@@ -165,7 +165,7 @@ nav {
 }
 
 .contact button, #submit {
-  font-family: 'Montserrat Alternates';
+  font-family: 'Montserrat Alternates', Tahoma, sans-serif;
   font-size: 1.2rem;
   font-weight: bold;
   color: #fff;
@@ -270,7 +270,7 @@ footer {
 }
 
 .copyright {
-  font-family: 'Montserrat Alternates', sans-serif, monospace;
+  font-family: 'Montserrat Alternates', Tahoma, sans-serif;
   color: #354a54;
   display: flex;
   justify-content: center;

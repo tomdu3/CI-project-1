@@ -152,7 +152,32 @@ Wireframes were made as presentation of the site pages while keeping a positive 
 
 </details>    
 
+### Design
+#### Colour Scheme
+Colour Scheme was made by [Colourmind](http://colormind.io/template/material-dashboard/). 
+
+
+<details>
+<summary>Colour Palette</summary>
+
+![Colour Palette](assets/readme_images/colour-palette.png)
+
+</details>
+
+
+#### Typography
+The typography pairing used on the site are [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?query=roboto+mono) and [Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates?query=montserrat+alternates) imported from [Google Fonts](https://fonts.google.com/). Fonts Tahoma, Helvetica and sans-serifin are used as backup fonts in case of import failure.
+
+Montserrat Alternates is chosen for the titles, headings and copyright section, whilst Roboto Mono is used for the standard text parts, navbar and social network links.
+
+#### Imagery
+The selected imagery has been sourced and created from various sites. The Pantheon image is taken from Wikipedia, while the other images are from [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/). More details can be find in [Credits Media](#media).
+
+[Back to top](#smiling-depression)
+
+
 ## Features 
+
 ### Existing Features
 
 - __Navigation Bar__

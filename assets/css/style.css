@@ -73,7 +73,7 @@ nav {
 }
 
 .nav-links  a:hover {
-  background-color: #647cd7;
+  background-color: #acc3e8;
   border-radius: 50%;
   transform: scale(1.2);
 }
@@ -221,18 +221,19 @@ nav {
 
 /* location map */
 .location-map {
-  overflow:hidden;
-  padding-bottom:56.25%;
-  position:relative;
-  height:0;
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
 }
 
 .location-map iframe{
-    left:0;
-    top:0;
-    height:100%;
-    width:100%;
-    position:absolute;
+    left: 0;
+    top: 0;
+    border: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
     max-height: 500px;
 }
 
@@ -588,7 +589,7 @@ input, input::placeholder, textarea {
   }
 
   .location-map {
-    padding-bottom:35%;    
+    padding-bottom: 25%;    
   }
   
   .videos-heading {

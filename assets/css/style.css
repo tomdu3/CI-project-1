@@ -1,9 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&family=Roboto+Mono&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&family=Roboto+Mono&family=Zen+Antique+Soft&display=swap');
 
 html {
   box-sizing: border-box;
-  font-family: 'Roboto Mono', Helvetica, sans-serif;
+  font-family: 'Zen Antique Soft', serif;
   line-height: 1.5rem;
   font-size: 100%;
 }
@@ -20,11 +19,12 @@ body {
 }
 
 h1, h2, h3 {
-  font-family: 'Montserrat Alternates', Tahoma, sans-serif;
+  font-family: 'Montserrat Alternates', sans-serif;
 }
 
 /* nav-bar */
 nav {
+  font-family: 'Roboto Mono', monospace;
   padding: 20px 30px;
   background-color: #87bdd8;
   display: flex;
@@ -109,11 +109,12 @@ nav {
 
   /* Short Info */
 .short-info {
+  color: #354a54;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  background-color: #cfe0e8;
+  background-color: #acc3e888;
   padding-top: 20px;
   padding-bottom: 20px;
 }
@@ -151,7 +152,7 @@ nav {
   /* Contact */
 .contact {
   font-family: 'Montserrat Alternates', Tahoma, sans-serif;
-  margin: 40px auto 0 auto;
+  margin: 20px auto 0 auto;
   width: 80%;
   border: 3px solid  #acc3e8;
   border-radius: 25px;
@@ -240,6 +241,7 @@ nav {
 
   /* footer */
 footer {
+  font-family: 'Roboto Mono', monospace;
   color: #fff;
   background-color: #87bdd8;
 }
@@ -283,10 +285,16 @@ footer {
 }
 
   /* articles */
+
+article {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 .articles {
+  color: #354a54;
   display: flex;
   flex-direction: column;
-  background-color:#99aebb99;
 }
 
 .articles > h1 {
@@ -318,6 +326,14 @@ footer {
 
 .article-title > h2 {
   padding: 0 5px;
+}
+
+.first {
+  background-color:#f3ce5955;
+}
+
+.second {
+  background-color:#647cd755;
 }
 
 #article-1 > .article-heading {
@@ -541,9 +557,11 @@ input, input::placeholder, textarea {
     
   .first {
     margin: 0;
+    padding-left: 20px;
   }
   .second {
     flex-direction: row-reverse;
+    padding-right: 20px;
   }
     
   .articles {

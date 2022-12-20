@@ -312,7 +312,6 @@ article {
 
 .article-title {
   position: absolute;
-  color: #fff;
   background-color: #99aebb98;
   background-clip: content-box;
   text-align: center;
@@ -327,6 +326,7 @@ article {
 }
 
 .article-title > h2 {
+  color: #daebe8;
   padding: 0 5px;
 }
 

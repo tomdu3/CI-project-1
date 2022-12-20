@@ -323,6 +323,7 @@ article {
 .article-text {
   text-align: justify;
   padding: 10px 10px;
+  font-size: larger;
 }
 
 .article-title > h2 {

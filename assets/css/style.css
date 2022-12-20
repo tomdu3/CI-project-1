@@ -648,6 +648,11 @@ input, input::placeholder, textarea {
     width: 80%;
   }
 
+  #address-image {
+    max-width: 350px;
+  }
+
+
   .icons-text {
     display: unset;
   }

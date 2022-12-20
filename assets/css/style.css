@@ -20,6 +20,7 @@ body {
 
 h1, h2, h3 {
   font-family: 'Montserrat Alternates', sans-serif;
+  color: #354a54;
 }
 
 /* nav-bar */
@@ -320,7 +321,7 @@ article {
 }
 
 .article-text {
-  text-align: center;
+  text-align: justify;
   padding: 10px 10px;
 }
 
@@ -377,7 +378,8 @@ iframe.video {
 
 /* contact section */
 .contact-section {
-  background-color: #87bdd855;
+  color: #354a54;
+  background-color: #f3ce5955;
 }
 
 .contact-us > h1 {
@@ -585,15 +587,10 @@ input, input::placeholder, textarea {
   .article-text {
     flex: 2;
     margin: 0;
-    text-align: left;
     justify-content: center;
     font-size: larger;
   }
     
-  .second .article-text {
-    text-align: right;
-  }
-
   .article-text > p {
     margin: auto;
     padding: 1rem; 
@@ -618,6 +615,10 @@ input, input::placeholder, textarea {
   iframe.video {
     width: 100%;
     height: 400px;
+  }
+
+  .contact-section {
+    width: 80%;
   }
    
 }
@@ -695,10 +696,6 @@ input, input::placeholder, textarea {
 
   iframe.video {
     width: 90%;
-  }
-
-  .contact-section {
-    width: 80%;
   }
 
   #contact-image {

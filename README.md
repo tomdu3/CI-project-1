@@ -152,18 +152,21 @@ Wireframes were made as presentation of the site pages while keeping a positive 
 
 </details>    
 
+<br>
+
 ### Design
+<br>
+
 #### Colour Scheme
 Colour Scheme was made by [Colourmind](http://colormind.io/template/material-dashboard/). 
-
-
+<!-- 
 <details>
-<summary>Colour Palette</summary>
+<summary>Colour Palette</summary> -->
 
-![Colour Palette](assets/readme_images/colour-palette.png)
-
+![Colour Palette](assets/readme_images/palette.png)
+<!-- 
 </details>
-
+<br> -->
 
 #### Typography
 The typography pairing used on the site are [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?query=roboto+mono) and [Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates?query=montserrat+alternates) imported from [Google Fonts](https://fonts.google.com/). Fonts Tahoma, Helvetica and sans-serifin are used as backup fonts in case of import failure.
@@ -293,7 +296,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
 
 - __Contact Us Page__
 
-  - This page will allow the user to send his minimal details in order to get contacted by the Institute for Wellbeign.
+  - This page will allow the user to send his minimal details in order to get contacted by the Institute for Wellbeing.
   - On middle sized and bigger screens, an image of a clown-like fake smile person apears on the left size of the form.
 
   <br>
@@ -304,11 +307,13 @@ The selected imagery has been sourced and created from various sites. The Panthe
 
   <br>
 
-
 ### Features to Implement
 
 - __Short Testimonials Page__
   - This could be a nice interactive page in where the testimonials of users who visited the page would be presented. The users would be invited to share their experiences about the smiling depression, the Institute of Wellbeing and the website content.
+
+## Issues and Bugs 
+The developer ran into several issues during the development of the website, with the noteworthy ones listed below, along with solutions or ideas to implement in the future.
 
 ## Testing 
 
@@ -329,13 +334,37 @@ The selected imagery has been sourced and created from various sites. The Panthe
               alt="Valid CSS!" />
       </a>
     </p>
+  
+## Technologies Used
+### Main Languages Used
+- [HTML5](https://en.wikipedia.org/wiki/HTML5 "Link to HTML in Wikipedia")
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets "Link to CSS in Wikipedia")
 
-### Unfixed Bugs
+### Frameworks, Libraries & Programs Used
+- [Codepen](https://codepen.io/)
+  - Codepen website was used abundantly as a playground for the developer to experiment with the code and styles before implementing the desired code into the project.
+- [Colormind](http://colormind.io/)
+  - Colormind was used to generate the colour palette.
+- [Google Fonts](https://fonts.google.com/ "Link to Google Fonts")
+    - Google fonts was used to import the fonts *Montserrat Alternates*, *Roboto Mono*  and *Zen Antique Sof* into the style.css file. These fonts were used throughout the project.
+- [Font Awesome](https://fontawesome.com/ "Link to FontAwesome")
+     - Font Awesome was used on almost all pages throughout the website to import icons (e.g. social media icons) for UX purposes.
+- [GitPod](https://gitpod.io/ "Link to GitPod")
+     - GitPod was used for writing code, git commiting and pushing the code to GitHub.
+- [GitHub](https://github.com/ "Link to GitHub")
+     - GitHub was used to store the project online.
+- [Figma](https://www.figma.com/ "Link to Figma homepage")
+     - Figma was used to create the wireframes during the design phase of the project.
+- [Am I Responsive?](http://ami.responsivedesign.is/# "Link to Am I Responsive Homepage")
+     - Am I Responsive was used in order to see responsive design and to generate mockup imagery to be used in this README file.
 
-**yet to add**
+[Back to top](#smiling-depression)
+
+## Testing
+
+*yet to be added*
 
 ## Deployment
-
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the **Settings** tab 
   - From the left side menu select **Pages**.
@@ -346,23 +375,23 @@ The live link can be found here - https://tomdu3.github.io/CI-project-1/
 
 
 ## Credits 
-
 ### Content 
-
-- Font used is Poppins from [Google Fonts](https://fonts.google.com/)
-- Colour Palette used is from Sky Palettes of the site [W3Schools][https://www.w3schools.com/colors/colors_palettes.asp]
-- Navbar was made by following the instructions of [Flexbox Navbar Mobile First Responsive Tutorial](https://youtu.be/yXhfUCXy2j4)
-- Google Maps were implemented with the help of [How to embed a Google Map into a web page](https://extension.umaine.edu/plugged-in/technology-marketing-communications/web/tips-for-web-managers/embed-map/)
-- Instructions on how to implement form validation on the Contact Us page was taken from the Code Institute Course.
-- The icons used on the pages were taken from [Font Awesome](https://fontawesome.com/)
 - Texts are taken and adapted from the sites:
   - [Medical News Today](https://www.medicalnewstoday.com/articles/smiling-depression)
   - [Webmd](https://www.webmd.com/depression/smiling-depression-overview)
   - [Davidson Institute](https://www.davidsongifted.org/gifted-blog/dabrowskis-theory-and-existential-depression-in-gifted-children-and-adults/)
 
+## Features
+- Fonts used are from [Google Fonts](https://fonts.google.com/)
+- The starting colour palette is *Sky Palettes* from [W3Schools][https://www.w3schools.com/colors/colors_palettes.asp]
+- The final colour palette was generated by the [Color Mind](http://colormind.io/).
+- Navbar was made by following the instructions of [Flexbox Navbar Mobile First Responsive Tutorial](https://youtu.be/yXhfUCXy2j4)
+- Google Maps were implemented with the help of [How to embed a Google Map into a web page](https://extension.umaine.edu/plugged-in/technology-marketing-communications/web/tips-for-web-managers/embed-map/)
+- Instructions on how to implement form validation on the Contact Us page was taken from the Code Institute Course.
+- The icons used on the pages were taken from [Font Awesome](https://fontawesome.com/)
+
 
 ### Media
-
 - The photos used on the home and sign up page are from [Pexels](https://www.pexels.com) and [Unsplash](https://unsplash.com):
   - [Photo by Antoine Beauvillain](https://unsplash.com/@antoinebeauvillain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   - [Photo by Karolina Grabowska from Pexels](https://www.pexels.com/photo/photo-of-person-crying-4472021/)
@@ -373,10 +402,12 @@ The live link can be found here - https://tomdu3.github.io/CI-project-1/
   - [Photo by Khoa Võ](https://www.pexels.com/photo/ethnic-woman-looking-at-fish-in-aquarium-4958618/)
   - [Photo by Pia Kafanke](https://www.pexels.com/photo/woman-with-white-and-red-face-paint-3807702/)
   - [Photo by Gratisography](https://www.pexels.com/photo/man-person-people-emotions-1990/)
-- The image of Panhteon was taken from [Wikipaedia Media](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg/298px-Pantheon_%28Rome%29_-_Right_side_and_front.jpg)
+- The image of Pantheon was taken from [Wikipaedia Media](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg/298px-Pantheon_%28Rome%29_-_Right_side_and_front.jpg)
 - The videos on the Awareness page are taken from [Youtube](https://www.youtube.com):
   - [What is Smiling Depression and What Makes It Dangerous?](https://youtu.be/Mgvd_fZfis0)
   - [Smiling Through Depression?](https://youtu.be/Kx3dpO6ys5s)
   - [This is what smiling depression looks like Slay Motivation](https://www.youtube.com/shorts/q5sSXJSVOn4)
   - [Smiling Depression Short film](https://www.youtube.com/watch?v=mSq4NlCg3u8)
   - [UNSPOKEN (2018) - Award Winning Short Film About Depression](https://youtu.be/k269NkuKK7Y)
+
+[Back to top](#smiling-depression)

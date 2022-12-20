@@ -16,7 +16,7 @@
 3. [Features](#features)
     1. [Design Features](#design-features) 
     2. [Existing Features](#existing-features)
-    3. [Features to Implement in the future](#features-to-implement-in-the-future)
+    3. [Features to Implement](#features-to-implement)
 4. [Issues and Bugs](#issues-and-bugs)
 5. [Technologies Used](#technologies-used)
      1. [Main Languages Used](#main-languages-used)

@@ -74,7 +74,7 @@ As someone who is working/living with a depressed person:
 2. I want the information I seek to be easily accessible and relevant.
 3. I want to easily be able to find info about the Institute for Wellbeing and make contact on behalf of the person suffering of smiling depression.
 
-### Development-Planes
+### Development Planes
 In order to provide a website that responds to the above mentioned user stories with the corresponding functionalities, the developer must present the smiling depression as a serious condition, the symptoms, the testimonials of this condition and give the opportunity for the user to require more info or help in that regard.
 
 #### Strategy

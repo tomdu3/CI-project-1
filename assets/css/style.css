@@ -176,6 +176,7 @@ nav {
   letter-spacing: 2px;
   border-radius: 25px;
   padding: 10px;
+  cursor:pointer;
 }
 
 .contact button:hover, #submit:hover {

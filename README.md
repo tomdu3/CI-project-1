@@ -88,7 +88,7 @@ Strategy incorporates user needs as well as product objectives. This website wil
 - **Demographic:**
     - All ages
     - People working in professional environment
-    - People exposed to stress on work
+    - People exposed to stress at work
 
 - **Psychographic:**
     - Lifestyles:

@@ -311,11 +311,6 @@ The selected imagery has been sourced and created from various sites. The Panthe
 The developer ran into several issues during the development of the website, with the noteworthy ones listed below, along with solutions or ideas to implement in the future.
 **yet to be added**
 
-## Testing 
-
-**yet to be added**
-
-
 ### Validator Testing 
 
 - HTML
@@ -356,10 +351,6 @@ The developer ran into several issues during the development of the website, wit
 
 [Back to top](#smiling-depression)
 
-## Testing
-
-*yet to be added*
-
 ## Deployment
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the **Settings** tab 
@@ -369,6 +360,9 @@ The developer ran into several issues during the development of the website, wit
 
 The live link can be found here - https://tomdu3.github.io/CI-project-1/ 
 
+## Testing 
+
+**yet to be added**
 
 ## Credits 
 ### Content 

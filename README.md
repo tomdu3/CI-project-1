@@ -8,28 +8,26 @@
 
 ## Table of contents
 1. [Site Info](#site-info)
-2. [UX](#UX)
-    1. [Ideal User Demographic](#Ideal-User-Demographic)
-    2. [User Stories](#User-Stories)
-    3. [Development Planes](#Development-Planes)
-    4. [Design](#Design)
-3. [Features](#Features)
-    1. [Design Features](#Design-Features) 
-    2. [Existing Features](#Existing-Features)
-    3. [Features to Implement in the future](#Features-to-Implement-in-the-future)
-4. [Issues and Bugs](#Issues-and-Bugs)
-5. [Technologies Used](#Technologies-Used)
-     1. [Main Languages Used](#Main-Languages-Used)
-     3. [Frameworks, Libraries & Programs Used](#Frameworks,-Libraries-&-Programs-Used)
-6. [Testing](#Testing)
-     1. [Testing.md](TESTING.md)
-7. [Deployment](#Deployment)
-     1. [Deploying on GitHub Pages](#Deploying-on-GitHub-Pages)
-8. [Credits](#Credits)
-     1. [Content](#Content)
-     2. [Media](#Media)
-     3. [Code](#Code)
-9. [Acknowledgements](#Acknowledgements)
+2. [UX](#ux)
+    1. [Ideal User Demographic](#ideal-user-demographic)
+    2. [User Stories](#user-stories)
+    3. [Development Planes](#development-planes)
+    4. [Design](#design)
+3. [Features](#features)
+    1. [Design Features](#design-features) 
+    2. [Existing Features](#existing-features)
+    3. [Features to Implement in the future](#features-to-implement-in-the-future)
+4. [Issues and Bugs](#issues-and-bugs)
+5. [Technologies Used](#technologies-used)
+     1. [Main Languages Used](#main-languages-used)
+     3. [Frameworks, Libraries & Programs Used](#frameworks,-libraries-&-programs-used)
+6. [Testing](#testing)
+7. [Deployment](#deployment)
+8. [Credits](#credits)
+     1. [Content](#content)
+     2. [Code Features](#code-features)
+     3. [Media](#media)
+9. [Acknowledgements](#acknowledgements)
 
 ## Site Info
 
@@ -68,7 +66,7 @@ As a new user:
 As someone who suffers of smiling depression:
 1. I want to factually correct and relevant information about smiling depression and its symptoms.
 2. I want the information I seek to be easily accessible and relevant.
-3. I want to easily be able to find info about the Institute for Wellbeing and make contact
+3. I want to easily be able to find info about the Institute for Wellbeing and make contact.
 
 #### Goals of a Person working/living with someone suffering of smiling depression
 As someone who is working/living with a depressed person:
@@ -112,7 +110,7 @@ The website needs to enable the **user** to:
     - Contact and Form to get in touch with the Institute for Wellbeing
     
 The website needs to enable the **site manager** to:
-- Gather the contact details of the site visitor in order to contact them.
+- Gather the contact details of the site visitors in order to contact them.
 
 #### Scope
 The scope plane is about defining requirements based on the goals established on the strategy plane. Using the information in the strategy plane, the identified required features have been broken into the following two categories.
@@ -152,23 +150,22 @@ Wireframes were made as presentation of the site pages while keeping a positive 
 
 </details>    
 
+<br>
+
 ### Design
 #### Colour Scheme
 Colour Scheme was made by [Colourmind](http://colormind.io/template/material-dashboard/). 
-
-
+<!-- 
 <details>
-<summary>Colour Palette</summary>
+<summary>Colour Palette</summary> -->
 
-![Colour Palette](assets/readme_images/colour-palette.png)
-
+![Colour Palette](assets/readme_images/palette.png)
+<!-- 
 </details>
-
+<br> -->
 
 #### Typography
-The typography pairing used on the site are [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?query=roboto+mono) and [Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates?query=montserrat+alternates) imported from [Google Fonts](https://fonts.google.com/). Fonts Tahoma, Helvetica and sans-serifin are used as backup fonts in case of import failure.
-
-Montserrat Alternates is chosen for the titles, headings and copyright section, whilst Roboto Mono is used for the standard text parts, navbar and social network links.
+The typography pairing used on the site are [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?query=roboto+mono) and [Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates?query=montserrat+alternates) imported from [Google Fonts](https://fonts.google.com/). Fonts Tahoma, Helvetica and sans-serifin are used as backup fonts in case of import failure. Montserrat Alternates is chosen for the titles, headings and copyright section, whilst Roboto Mono is used for the standard text parts, navbar and social network links.
 
 #### Imagery
 The selected imagery has been sourced and created from various sites. The Pantheon image is taken from Wikipedia, while the other images are from [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/). More details can be find in [Credits Media](#media).
@@ -238,7 +235,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
 
 - __The Address and Map__
 
-  - This section gives the information about the location of the fictitious Institute for Wellbeign in Rome
+  - This section gives the information about the location of the fictitious Institute for Wellbeing in Rome
   - Other than the address, there's an image of the Institute (Pantheon) and below these information there's an interactive Google Map section.
 
   <br>
@@ -268,7 +265,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
 - __Symptoms of Smiling Depression Page__
 
   - This page main section provides articles about the most common symptoms of smiling depression. There are four articles, each represented by a title, image and a paragraph of text.
-  - On bigger screens, paragraph takes 2/3 of the row, whilst image with title occupies 1/3. Every second article changes the position of the paragraph and image. On smaller screens, the image is above the paragraph and both take 100% of the width.
+  - On bigger screens, paragraph takes 2/3 of the row, whilst image with the title occupies 1/3. Every second article changes the position of the paragraph and image as well as colour. On smaller screens, the image is above the paragraph and both take 100% of the width.
   
   <br>
   <details>
@@ -281,20 +278,21 @@ The selected imagery has been sourced and created from various sites. The Panthe
 - __Awareness and Testimonials about Smiling Depression Page__
 
   - This page has a distinctive video gallery that will provide the user with the YouTube videos about smiling depression. 
-  - The organization of the videos is very simple - one video per row in order to make user to concentrate on each story instead of the visual appearence of the gallery. 
+  - The organization of the videos is very simple - one video per row on smaller screens in order to make user to concentrate on each story instead of the visual appearence of the gallery. On big screens - the video gallery features two videos per row.
 
   <br>
   <details>
     <summary>Screenshot</summary>
     <img src="./assets/readme_images/videos.png" height="500px">
+    <img src="./assets/readme_images/videos2.png" height="500px">
   </details>
 
   <br>
 
 - __Contact Us Page__
 
-  - This page will allow the user to send his minimal details in order to get contacted by the Institute for Wellbeign.
-  - On middle sized and bigger screens, an image of a clown-like fake smile person apears on the left size of the form.
+  - This page will allow the user to send his minimal details in order to get contacted by the Institute for Wellbeing. The name and email address are requested, whilest the message is optional.
+  - On bigger screens an image of a clown-like fake smile person apears to the left side of the form.
 
   <br>
   <details>
@@ -304,15 +302,18 @@ The selected imagery has been sourced and created from various sites. The Panthe
 
   <br>
 
-
 ### Features to Implement
 
 - __Short Testimonials Page__
   - This could be a nice interactive page in where the testimonials of users who visited the page would be presented. The users would be invited to share their experiences about the smiling depression, the Institute of Wellbeing and the website content.
 
+## Issues and Bugs 
+The developer ran into several issues during the development of the website, with the noteworthy ones listed below, along with solutions or ideas to implement in the future.
+**yet to be added**
+
 ## Testing 
 
-**yet to add**
+**yet to be added**
 
 
 ### Validator Testing 
@@ -329,13 +330,37 @@ The selected imagery has been sourced and created from various sites. The Panthe
               alt="Valid CSS!" />
       </a>
     </p>
+  
+## Technologies Used
+### Main Languages Used
+- [HTML5](https://en.wikipedia.org/wiki/HTML5 "Link to HTML in Wikipedia")
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets "Link to CSS in Wikipedia")
 
-### Unfixed Bugs
+### Frameworks, Libraries & Programs Used
+- [Codepen](https://codepen.io/)
+  - Codepen website was used abundantly as a playground for the developer to experiment with the code and styles before implementing the desired code into the project.
+- [Colormind](http://colormind.io/)
+  - Colormind was used to generate the colour palette.
+- [Google Fonts](https://fonts.google.com/ "Link to Google Fonts")
+    - Google fonts was used to import the fonts *Montserrat Alternates*, *Roboto Mono*  and *Zen Antique Sof* into the style.css file. These fonts were used throughout the project.
+- [Font Awesome](https://fontawesome.com/ "Link to FontAwesome")
+     - Font Awesome was used on almost all pages throughout the website to import icons (e.g. social media icons) for UX purposes.
+- [GitPod](https://gitpod.io/ "Link to GitPod")
+     - GitPod was used for writing code, git commiting and pushing the code to GitHub.
+- [GitHub](https://github.com/ "Link to GitHub")
+     - GitHub was used to store the project online.
+- [Figma](https://www.figma.com/ "Link to Figma homepage")
+     - Figma was used to create the wireframes during the design phase of the project.
+- [Am I Responsive?](http://ami.responsivedesign.is/# "Link to Am I Responsive Homepage")
+     - Am I Responsive was used in order to see responsive design and to generate mockup imagery to be used in this README file.
 
-**yet to add**
+[Back to top](#smiling-depression)
+
+## Testing
+
+*yet to be added*
 
 ## Deployment
-
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the **Settings** tab 
   - From the left side menu select **Pages**.
@@ -346,23 +371,23 @@ The live link can be found here - https://tomdu3.github.io/CI-project-1/
 
 
 ## Credits 
-
 ### Content 
-
-- Font used is Poppins from [Google Fonts](https://fonts.google.com/)
-- Colour Palette used is from Sky Palettes of the site [W3Schools][https://www.w3schools.com/colors/colors_palettes.asp]
-- Navbar was made by following the instructions of [Flexbox Navbar Mobile First Responsive Tutorial](https://youtu.be/yXhfUCXy2j4)
-- Google Maps were implemented with the help of [How to embed a Google Map into a web page](https://extension.umaine.edu/plugged-in/technology-marketing-communications/web/tips-for-web-managers/embed-map/)
-- Instructions on how to implement form validation on the Contact Us page was taken from the Code Institute Course.
-- The icons used on the pages were taken from [Font Awesome](https://fontawesome.com/)
 - Texts are taken and adapted from the sites:
   - [Medical News Today](https://www.medicalnewstoday.com/articles/smiling-depression)
   - [Webmd](https://www.webmd.com/depression/smiling-depression-overview)
   - [Davidson Institute](https://www.davidsongifted.org/gifted-blog/dabrowskis-theory-and-existential-depression-in-gifted-children-and-adults/)
 
+## Code Features
+- Fonts used are from [Google Fonts](https://fonts.google.com/)
+- The starting colour palette is *Sky Palettes* from [W3Schools][https://www.w3schools.com/colors/colors_palettes.asp]
+- The final colour palette was generated by the [Color Mind](http://colormind.io/).
+- Navbar was made by following the instructions of [Flexbox Navbar Mobile First Responsive Tutorial](https://youtu.be/yXhfUCXy2j4)
+- Google Maps were implemented with the help of [How to embed a Google Map into a web page](https://extension.umaine.edu/plugged-in/technology-marketing-communications/web/tips-for-web-managers/embed-map/)
+- Instructions on how to implement form validation on the Contact Us page was taken from the Code Institute Course.
+- The icons used on the pages were taken from [Font Awesome](https://fontawesome.com/)
+
 
 ### Media
-
 - The photos used on the home and sign up page are from [Pexels](https://www.pexels.com) and [Unsplash](https://unsplash.com):
   - [Photo by Antoine Beauvillain](https://unsplash.com/@antoinebeauvillain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   - [Photo by Karolina Grabowska from Pexels](https://www.pexels.com/photo/photo-of-person-crying-4472021/)
@@ -373,10 +398,17 @@ The live link can be found here - https://tomdu3.github.io/CI-project-1/
   - [Photo by Khoa Võ](https://www.pexels.com/photo/ethnic-woman-looking-at-fish-in-aquarium-4958618/)
   - [Photo by Pia Kafanke](https://www.pexels.com/photo/woman-with-white-and-red-face-paint-3807702/)
   - [Photo by Gratisography](https://www.pexels.com/photo/man-person-people-emotions-1990/)
-- The image of Panhteon was taken from [Wikipaedia Media](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg/298px-Pantheon_%28Rome%29_-_Right_side_and_front.jpg)
+- The image of Pantheon was taken from [Wikipaedia Media](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg/298px-Pantheon_%28Rome%29_-_Right_side_and_front.jpg)
 - The videos on the Awareness page are taken from [Youtube](https://www.youtube.com):
   - [What is Smiling Depression and What Makes It Dangerous?](https://youtu.be/Mgvd_fZfis0)
   - [Smiling Through Depression?](https://youtu.be/Kx3dpO6ys5s)
   - [This is what smiling depression looks like Slay Motivation](https://www.youtube.com/shorts/q5sSXJSVOn4)
   - [Smiling Depression Short film](https://www.youtube.com/watch?v=mSq4NlCg3u8)
   - [UNSPOKEN (2018) - Award Winning Short Film About Depression](https://youtu.be/k269NkuKK7Y)
+
+[Back to top](#smiling-depression)
+
+## Acknowledgements
+**yet to be added**
+
+[Back to top](#smiling-depression)

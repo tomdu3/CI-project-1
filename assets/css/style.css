@@ -223,6 +223,10 @@ nav {
   background-position: center;
 }
 
+.address > p {
+  font-family: 'Roboto Mono', monospace;
+}
+
 /* location map */
 .location-map {
   overflow: hidden;

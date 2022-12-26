@@ -242,15 +242,12 @@ The selected imagery has been sourced and created from various sites. The Panthe
     <img src="./assets/readme_images/address.png" width="800px">
   </details>
 
-  
-
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites of the Institute (actually leading only to the hompegaes of the respective social media sites). The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
   - The FontAwesome icons are used on smaller and middle screens, whilst the text appears on bigger screens.
   - There's a copyright info under the links.
-
   
   <details>
     <summary>Screenshots</summary>
@@ -291,14 +288,12 @@ The selected imagery has been sourced and created from various sites. The Panthe
 
   - This page will allow the user to send his minimal details in order to get contacted by the Institute for Wellbeing. The name and email address are requested, whilest the message is optional.
   - On bigger screens an image of a clown-like fake smile person apears to the left side of the form.
-
   
   <details>
     <summary>Screenshot</summary>
     <img src="./assets/readme_images/contact-us.png" width="800px">
   </details>
-
-  
+ 
 
 ### Features to Implement
 
@@ -367,6 +362,49 @@ The developer ran into several issues during the development of the website, wit
 - **Text Area Resizible bug** - In the Contact Us form the textarea that was supposed to be of a fixed size was resizible. That was changed after the mentor pointed it out.
 
 ## Testing 
+
+### User-Stories Testing
+#### Current User Goals
+1. As a current user, I want to find general information about smiling depression and its symptoms.
+* The Home Page has a few general information about the smiling depression.
+* The Symptoms Page has the information regading the general four symptoms of the smiling depression.
+* The Awareness Page has four videos related to the smiling depression. 
+
+2. As a current user, I want to easily navigate through the site and access the information I require.
+* The navigation bar is clearly defined and easily navigabale for users to find and use.
+* The footer menu is easy to use with recognizable icons on small screens and the text indication on bigger screens.
+
+3. As a current user, I want to easily navigate to content I have previously viewed within a small number of steps.
+* On all sites there's a navigation bar with links to each page.
+
+4. As a current user, I want to easily find the info and contact form for the Institute for Wellbeing.
+* On all pages there's a section with info about location with the accompanying image and Google Map. The first three pages have a Contact Us section and button that leads to the last Contact Us Page with a form to contact the Institute for Wellbeing.
+
+#### New User Goals
+1. As a new user, I want to easily navigate the entire site intuitively. 
+* The navigation bar is clearly defined and easily navigabale for users to find and use.
+* The footer menu is easy to use with recognizable icons on small screens and the text indication on bigger screens.
+2. As a new user, I want the information I seek to be easily accessible and relevant.
+* The navigation bar is clearly defined and easily navigabale for users to find and use.
+* The footer menu is easy to use with recognizable icons on small screens and the text indication on bigger screens.
+3. As a new user, I want attractive and relevant visuals and colour schemes that work with the content.
+* An interesting and calming palette was created by [Color Mind](http://colormind.io/).
+* The content related images were take from [Wikipedia](https://www.wikipedia.org/), while the other images are from [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/).
+4. As a new user, I want to easily find the info and contact form for the Institute for Wellbeing.
+* On all pages there's a section with info about location with the accompanying image and Google Map. The first three pages have a Contact Us section and button that leads to the last Contact Us Page with a form to contact the Institute for Wellbeing.
+
+#### Goals of a Person Suffering of Smiling Depression
+1. As someone who suffers of smiling depression, I want to factually correct and relevant information about smiling depression and its symptoms.
+* The Home Page has a few general information about the smiling depression.
+* The Symptoms Page has the information regading the general four symptoms of the smiling depression.
+* The Awareness Page has four videos related to the smiling depression. 
+2. As someone who suffers of smiling depression, I want the information I seek to be easily accessible and relevant.
+3. As someone who suffers of smiling depression, I want to easily be able to find info about the Institute for Wellbeing and make contact.
+
+#### Goals of a Person working/living with someone suffering of smiling depression
+1. As someone who is working/living with a depressed person, I want to factually correct and relevant information about smiling depression and its symptoms.
+2. As someone who is working/living with a depressed person, I want the information I seek to be easily accessible and relevant.
+3. As someone who is working/living with a depressed person, I want to easily be able to find info about the Institute for Wellbeing and make contact on behalf of the person suffering of smiling depression.
 
 ### Validator Testing 
 

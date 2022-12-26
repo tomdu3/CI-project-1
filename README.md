@@ -141,26 +141,42 @@ The information above was then organized in a hierarchical tree structure, a sit
 #### Skeleton
 Wireframes were made as presentation of the site pages while keeping a positive user experience in mind. They were created using an online version of [Figma](https://figma.com/).
 
-
+**Figma Wireframes**
 <details>
-<summary>Figma Wireframes</summary>
-    
+<summary>Homepage Wireframes</summary>
+
 ![Homepage Mobile Wireframe](assets/readme_images/wireframes/homepage.png)
 ![Homepage Tablet Wireframe](assets/readme_images/wireframes/homepage-tablet.png)
 ![Homepage Desktop Wireframe](assets/readme_images/wireframes/homepage-desktop.png)
+
+</details>
+
+<details>
+<summary>Symptoms of Smiling Depression Wireframes</summary>
+
 ![Symptoms Mobile Wireframe](assets/readme_images/wireframes/symptoms_of_smiling_depression.png)
 ![Symptoms Tablet Wireframe](assets/readme_images/wireframes/symptoms_of_smiling_depression-tablet.png)
 ![Symptoms Desktop Wireframe](assets/readme_images/wireframes/symptoms_of_smiling_depression-desktop.png)
+
+</details>
+
+<details>
+<summary>Smiling Depression Awareness Videos Wireframes</summary>
+
 ![Awareness Mobile Wireframe](assets/readme_images/wireframes/awareness.png)
 ![Awareness Mobile Wireframe](assets/readme_images/wireframes/awareness-tablet.png)
 ![Awareness Mobile Wireframe](assets/readme_images/wireframes/awareness-desktop.png)
+
+</details>
+
+<details>
+<summary>Contact Us Wireframes</summary>
+
 ![Contact Us Mobile Wireframe](assets/readme_images/wireframes/contact_us.png)
 ![Contact Us Mobile Wireframe](assets/readme_images/wireframes/contact_us-tablet.png)
 ![Contact Us Mobile Wireframe](assets/readme_images/wireframes/contact_us-desktop.png)
 
 </details>    
-
-<br>
 
 ### Design
 #### Colour Scheme
@@ -172,7 +188,6 @@ Colour Scheme was made by [Colourmind](http://colormind.io/template/material-das
 ![Colour Palette](assets/readme_images/palette.png)
 
 </details>
-<br>
 
 #### Typography
 The typography pairing used on the site are [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?query=roboto+mono) and [Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates?query=montserrat+alternates) imported from [Google Fonts](https://fonts.google.com/). Fonts Tahoma, Helvetica and sans-serifin are used as backup fonts in case of import failure. Montserrat Alternates is chosen for the titles, headings and copyright section, whilst Roboto Mono is used for the standard text parts, navbar and social network links.
@@ -194,7 +209,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
   - On hover a small animation of transition appears, the font size of the link tekst increases and an elliptical shape sorrounds it.
   - On smaller screens the logo goes up in the center above the links.
 
-  <br>
+  
   <details>
     <summary>Screenshot</summary>
     <img src="./assets/readme_images/navbar.png" width="800px">
@@ -202,59 +217,59 @@ The selected imagery has been sourced and created from various sites. The Panthe
     <img src="./assets/readme_images/navbar3.png" width="800px">
   </details>
 
-  <br>
+  
 
 - __The landing page image__
 
   - The landing includes a photograph with text overlay to allow the user to see the exact topic of the web site.
   - This section introduces the user to Smiling Depression with an image that powerfully depicts the essence of this condition - a guy's face out of focus in front of which is his smartphone with him smiling.
 
-  <br>
+  
   <details>
     <summary>Screenshot</summary>
     <img src="./assets/readme_images/landing-image.png" width="800px">
   </details>
 
-  <br>
+  
 
 - __Short Info Section__
 
   - This section allows the user to grasp the general info about the smiling depression condition.
   - The accompanying images in a circle shaped fashion underline the info text
 
-  <br>
+  
   <details>
     <summary>Screenshot</summary>
     <img src="./assets/readme_images/short-info.png" width="800px">
   </details>
 
-  <br>
+  
 
 - __Contact Section__
 
   - This section section appears every page, except the Contact page to which the Contact Us button is leading on click. 
   - There's an encouraging message 
 
-  <br>
+  
   <details>
     <summary>Screenshot</summary>
     <img src="./assets/readme_images/contact.png" width="500px">
   </summary>
 
-  <br>
+  
 
 - __The Address and Map__
 
   - This section gives the information about the location of the fictitious Institute for Wellbeing in Rome
   - Other than the address, there's an image of the Institute (Pantheon) and below these information there's an interactive Google Map section.
 
-  <br>
+  
   <details>
     <summary>Screenshot</summary>
     <img src="./assets/readme_images/address.png" width="800px">
   </details>
 
-  <br>
+  
 
 - __The Footer__ 
 
@@ -263,54 +278,54 @@ The selected imagery has been sourced and created from various sites. The Panthe
   - The FontAwesome icons are used on smaller and middle screens, whilst the text appears on bigger screens.
   - There's a copyright info under the links.
 
-  <br>
+  
   <details>
     <summary>Screenshots</summary>
     <img src="./assets/readme_images/footer.png" width="800px">
     <img src="./assets/readme_images/footer2.png" width="800px">
   </details>
   
-  <br>
+  
 
 - __Symptoms of Smiling Depression Page__
 
   - This page main section provides articles about the most common symptoms of smiling depression. There are four articles, each represented by a title, image and a paragraph of text.
   - On bigger screens, paragraph takes 2/3 of the row, whilst image with the title occupies 1/3. Every second article changes the position of the paragraph and image as well as colour. On smaller screens, the image is above the paragraph and both take 100% of the width.
   
-  <br>
+  
   <details>
     <summary>Screenshot</summary>
     <img src="./assets/readme_images/articles.png" width="800px">
   </details>
 
-  <br>
+  
 
 - __Awareness and Testimonials about Smiling Depression Page__
 
   - This page has a distinctive video gallery that will provide the user with the YouTube videos about smiling depression. 
   - The organization of the videos is very simple - one video per row on smaller screens in order to make user to concentrate on each story instead of the visual appearence of the gallery. On big screens - the video gallery features two videos per row.
 
-  <br>
+  
   <details>
     <summary>Screenshot</summary>
     <img src="./assets/readme_images/videos.png" height="500px">
     <img src="./assets/readme_images/videos2.png" height="500px">
   </details>
 
-  <br>
+  
 
 - __Contact Us Page__
 
   - This page will allow the user to send his minimal details in order to get contacted by the Institute for Wellbeing. The name and email address are requested, whilest the message is optional.
   - On bigger screens an image of a clown-like fake smile person apears to the left side of the form.
 
-  <br>
+  
   <details>
     <summary>Screenshot</summary>
     <img src="./assets/readme_images/contact-us.png" width="800px">
   </details>
 
-  <br>
+  
 
 ### Features to Implement
 

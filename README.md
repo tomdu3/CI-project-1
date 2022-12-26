@@ -145,12 +145,9 @@ Wireframes were made as presentation of the site pages while keeping a positive 
 <details>
 <summary>Homepage Wireframes</summary>
 
-Homepage Mobile Wireframe
-  <img src="./assets/readme_images/wireframes/homepage.png" width="200px">
-Homepage Tablet Wireframe
-<img src="./assets/readme_images/wireframes/homepage-tablet.png" width="200px">
-Homepage Desktop Wireframe
-<img src="./assets/readme_images/wireframes/homepage-desktop.png" width="200px">
+<img src="./assets/readme_images/wireframes/homepage.png" width="200px" alt="Homepage Mobile Wireframe">
+<img src="./assets/readme_images/wireframes/homepage-tablet.png" width="200px" alt="Homepage Tablet Wireframe">
+<img src="./assets/readme_images/wireframes/homepage-desktop.png" width="200px" alt="Homepage Desktop Wireframe">
 
 </details>
 

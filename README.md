@@ -133,7 +133,7 @@ The information above was then organized in a hierarchical tree structure, a sit
 <details>
 <summary>Site Structure</summary>
 
-![Site Structure](assets/readme_images/site_structure.png)
+![Site Structure](assets/readme_images/structure.png)
 
 </details>
 
@@ -145,7 +145,18 @@ Wireframes were made as presentation of the site pages while keeping a positive 
 <details>
 <summary>Figma Wireframes</summary>
     
-![Site Wireframes](assets/readme_images/wireframes.png)
+![Homepage Mobile Wireframe](assets/readme_images/wireframes/homepage.png)
+![Homepage Tablet Wireframe](assets/readme_images/wireframes/homepage-tablet.png)
+![Homepage Desktop Wireframe](assets/readme_images/wireframes/homepage-desktop.png)
+![Symptoms Mobile Wireframe](assets/readme_images/wireframes/symptoms_of_smiling_depression.png)
+![Symptoms Tablet Wireframe](assets/readme_images/wireframes/symptoms_of_smiling_depression-tablet.png)
+![Symptoms Desktop Wireframe](assets/readme_images/wireframes/symptoms_of_smiling_depression-desktop.png)
+![Awareness Mobile Wireframe](assets/readme_images/wireframes/awareness.png)
+![Awareness Mobile Wireframe](assets/readme_images/wireframes/awareness-tablet.png)
+![Awareness Mobile Wireframe](assets/readme_images/wireframes/awareness-desktop.png)
+![Contact Us Mobile Wireframe](assets/readme_images/wireframes/contact_us.png)
+![Contact Us Mobile Wireframe](assets/readme_images/wireframes/contact_us-tablet.png)
+![Contact Us Mobile Wireframe](assets/readme_images/wireframes/contact_us-desktop.png)
 
 </details>    
 

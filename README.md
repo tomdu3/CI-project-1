@@ -172,7 +172,7 @@ Wireframes were made as presentation of the site pages while keeping a positive 
 <details>
 <summary>Contact Us Wireframes</summary>
 
-![Contact Us Mobile Wireframe](assets/readme_images/wireframes/contact_us.png)
+![Contact Us Mobile Wireframe](assets/readme_images/wireframes/contact_us.png | width=100)
 ![Contact Us Mobile Wireframe](assets/readme_images/wireframes/contact_us-tablet.png)
 ![Contact Us Mobile Wireframe](assets/readme_images/wireframes/contact_us-desktop.png)
 

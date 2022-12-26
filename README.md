@@ -16,10 +16,10 @@
 3. [Features](#features)
     1. [Existing Features](#existing-features)
     2. [Features to Implement](#features-to-implement)
-4. [Issues and Bugs](#issues-and-bugs)
-5. [Technologies Used](#technologies-used)
+4. [Technologies Used](#technologies-used)
      1. [Main Languages Used](#main-languages-used)
-     3. [Frameworks, Libraries & Programs Used](#frameworks,-libraries-&-programs-used)
+     2. [Frameworks, Libraries & Programs Used](#frameworks,-libraries-&-programs-used)
+5. [Issues and Bugs](#issues-and-bugs)
 6. [Testing](#testing)
 7. [Deployment](#deployment)
 8. [Credits](#credits)
@@ -306,25 +306,6 @@ The selected imagery has been sourced and created from various sites. The Panthe
 - __Short Testimonials Page__
   - This could be a nice interactive page in where the testimonials of users who visited the page would be presented. The users would be invited to share their experiences about the smiling depression, the Institute of Wellbeing and the website content.
 
-## Issues and Bugs 
-The developer ran into several issues during the development of the website, with the noteworthy ones listed below, along with solutions or ideas to implement in the future.
-**yet to be added**
-
-### Validator Testing 
-
-- HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftomdu3.github.io%2FCI-project-1%2F)
-       
-- CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftomdu3.github.io%2FCI-project-1%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-    <p>
-      <a href="https://jigsaw.w3.org/css-validator/check/referer">
-          <img style="border:0;width:88px;height:31px"
-              src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
-              alt="Valid CSS!" />
-      </a>
-    </p>
-  
 ## Technologies Used
 ### Main Languages Used
 - [HTML5](https://en.wikipedia.org/wiki/HTML5 "Link to HTML in Wikipedia")
@@ -360,9 +341,26 @@ The developer ran into several issues during the development of the website, wit
 
 The live link can be found here - https://tomdu3.github.io/CI-project-1/ 
 
+## Issues and Bugs 
+The developer ran into several issues during the development of the website, with the noteworthy ones listed below, along with solutions or ideas to implement in the future.
+**yet to be added**
+
 ## Testing 
 
-**yet to be added**
+### Validator Testing 
+
+- HTML
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftomdu3.github.io%2FCI-project-1%2F)
+       
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftomdu3.github.io%2FCI-project-1%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+    <p>
+      <a href="https://jigsaw.w3.org/css-validator/check/referer">
+          <img style="border:0;width:88px;height:31px"
+              src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+              alt="Valid CSS!" />
+      </a>
+    </p>
 
 ## Credits 
 ### Content 
@@ -379,7 +377,7 @@ The live link can be found here - https://tomdu3.github.io/CI-project-1/
 - Google Maps were implemented with the help of [How to embed a Google Map into a web page](https://extension.umaine.edu/plugged-in/technology-marketing-communications/web/tips-for-web-managers/embed-map/)
 - Instructions on how to implement form validation on the Contact Us page was taken from the Code Institute Course.
 - The icons used on the pages were taken from [Font Awesome](https://fontawesome.com/)
-- The conversion of the JPEG images to WEBP was made with [Webp Converter](https://developers.google.com/speed/webp) by following the instructions from [Linuxways](https://linuxways.net/ubuntu/how-to-convert-png-jpeg-to-webp-in-ubuntu-also-webp-to-png-and-jpeg/). 
+- The conversion of the JPEG images to WEBP was made with [Webp Converter](https://developers.google.com/speed/webp) by following the instructions from [Linuxways](https://linuxways.net/ubuntu/how-to-convert-png-jpeg-to-webp-in-ubuntu-also-webp-to-png-and-jpeg/).
 
 
 ### Media

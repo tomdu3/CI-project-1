@@ -145,9 +145,12 @@ Wireframes were made as presentation of the site pages while keeping a positive 
 <details>
 <summary>Homepage Wireframes</summary>
 
-![Homepage Mobile Wireframe](assets/readme_images/wireframes/homepage.png)
-![Homepage Tablet Wireframe](assets/readme_images/wireframes/homepage-tablet.png)
-![Homepage Desktop Wireframe](assets/readme_images/wireframes/homepage-desktop.png)
+Homepage Mobile Wireframe
+  <img src="./assets/readme_images/wireframes/homepage.png" width="200px">
+Homepage Tablet Wireframe
+<img src="./assets/readme_images/wireframes/homepage-tablet.png" width="200px">
+Homepage Desktop Wireframe
+<img src="./assets/readme_images/wireframes/homepage-desktop.png" width="200px">
 
 </details>
 
@@ -172,7 +175,7 @@ Wireframes were made as presentation of the site pages while keeping a positive 
 <details>
 <summary>Contact Us Wireframes</summary>
 
-![Contact Us Mobile Wireframe](assets/readme_images/wireframes/contact_us.png | width=100)
+![Contact Us Mobile Wireframe](assets/readme_images/wireframes/contact_us.png)
 ![Contact Us Mobile Wireframe](assets/readme_images/wireframes/contact_us-tablet.png)
 ![Contact Us Mobile Wireframe](assets/readme_images/wireframes/contact_us-desktop.png)
 

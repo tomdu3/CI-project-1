@@ -2,7 +2,7 @@
 
 # Smiling Depression
 ## Project Portfolio 1 of Diploma in Full Stack Software Development at Code Institute
-<img src="./assets/readme_images/amiresponsive.png" width="800px">
+<img src="./assets/readme_images/amiresponsive.png" width="80%">
 
 [View the live site](https://tomdu3.github.io/CI-project-1/)
 
@@ -144,10 +144,10 @@ Wireframes were made as presentation of the site pages while keeping a positive 
 <details>
 <summary>Figma Wireframes</summary>
 
-<img src="./assets/readme_images/wireframe-homepage.png" width="800px" alt="Homepage Wireframe">
-<img src="./assets/readme_images/wireframe-symptoms.png" width="800px" alt="Symptoms of Smiling Depression Wireframe">
-<img src="./assets/readme_images/wireframe-awareness.png" width="800px" alt="Awareness Video Wireframe">
-<img src="./assets/readme_images/wireframe-contact-us.png" width="800px" alt="Contact Us Wireframe">
+<img src="./assets/readme_images/wireframe-homepage.png" width="80%" alt="Homepage Wireframe">
+<img src="./assets/readme_images/wireframe-symptoms.png" width="80%" alt="Symptoms of Smiling Depression Wireframe">
+<img src="./assets/readme_images/wireframe-awareness.png" width="80%" alt="Awareness Video Wireframe">
+<img src="./assets/readme_images/wireframe-contact-us.png" width="80%" alt="Contact Us Wireframe">
 
 </details>
 
@@ -185,9 +185,9 @@ The selected imagery has been sourced and created from various sites. The Panthe
   
   <details>
     <summary>Screenshot</summary>
-    <img src="./assets/readme_images/navbar.png" width="800px">
-    <img src="./assets/readme_images/navbar2.png" width="800px">
-    <img src="./assets/readme_images/navbar3.png" width="800px">
+    <img src="./assets/readme_images/navbar.png" width="80%">
+    <img src="./assets/readme_images/navbar2.png" width="80%">
+    <img src="./assets/readme_images/navbar3.png" width="80%">
   </details>
 
   
@@ -200,7 +200,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
   
   <details>
     <summary>Screenshot</summary>
-    <img src="./assets/readme_images/landing-image.png" width="800px">
+    <img src="./assets/readme_images/landing-image.png" width="80%">
   </details>
 
   
@@ -213,7 +213,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
   
   <details>
     <summary>Screenshot</summary>
-    <img src="./assets/readme_images/short-info.png" width="800px">
+    <img src="./assets/readme_images/short-info.png" width="80%">
   </details>
 
   
@@ -239,7 +239,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
   
   <details>
     <summary>Screenshot</summary>
-    <img src="./assets/readme_images/address.png" width="800px">
+    <img src="./assets/readme_images/address.png" width="80%">
   </details>
 
 - __The Footer__ 
@@ -251,8 +251,8 @@ The selected imagery has been sourced and created from various sites. The Panthe
   
   <details>
     <summary>Screenshots</summary>
-    <img src="./assets/readme_images/footer.png" width="800px">
-    <img src="./assets/readme_images/footer2.png" width="800px">
+    <img src="./assets/readme_images/footer.png" width="80%">
+    <img src="./assets/readme_images/footer2.png" width="80%">
   </details>
   
   
@@ -265,7 +265,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
   
   <details>
     <summary>Screenshot</summary>
-    <img src="./assets/readme_images/articles.png" width="800px">
+    <img src="./assets/readme_images/articles.png" width="80%">
   </details>
 
   
@@ -291,7 +291,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
   
   <details>
     <summary>Screenshot</summary>
-    <img src="./assets/readme_images/contact-us.png" width="800px">
+    <img src="./assets/readme_images/contact-us.png" width="80%">
   </details>
  
 
@@ -416,8 +416,52 @@ The developer ran into several issues during the development of the website, wit
 #### Common Element Testing
 Manual testing was conducted on the following elements that appear on every page:
 * Navigation Bar with a **hover** effect highlights the chosen menu. The current menu is indicated by the underlined effect on a link.
+  <details>
+    <summary>Screencast</summary>
+    <img src="./assets/readme_images/testing/navbar-hover.gif" width="80%" alt="Navigation Bar hover/unhover">
+
+    <img src="./assets/readme_images/testing/navbar-hover-small.gif" alt="Navigation Bar hover/unhover small screen">
+  </details>
 
 * Clicking on a link on Navigation bar gets a user to the chosen page.
+  <details>
+    <summary>Screencast</summary>
+      <img src="./assets/readme_images/testing/navbar-links.gif" width="80%" alt="Navigation Bar links test">
+      <img src="./assets/readme_images/testing/navbar-links-small.gif" alt="Navigation Bar hover/unhover small screen">
+  </details>
+
+* Facebook link (external, new page)
+  <details>
+    <summary>Screencast</summary>
+      <img src="./assets/readme_images/testing/facebook.gif" width="80%" alt="Facebook link test">
+  </details>
+
+* Twitter Link (external, new page)
+  <details>
+    <summary>Screencast</summary>
+      <img src="./assets/readme_images/testing/twitter.gif" width="80%" alt="Twitter link test">
+  </details>
+
+* YouTube Link (external, new page)
+  <details>
+    <summary>Screencast</summary>
+      <img src="./assets/readme_images/testing/youtube.gif" width="80%" alt="Youtube link test">
+  </details>
+
+* Instagram Link (external, new page)
+  <details>
+    <summary>Screencast</summary>
+      <img src="./assets/readme_images/testing/instagram.gif" width="80%" alt="Instagram link test">
+  </details>
+* Contact Button (internal)
+  <details>
+    <summary>Screencast</summary>
+      <img src="./assets/readme_images/testing/contact-button.gif" width="80%" alt="Contact Button link test">
+  </details>
+
+#### Homepage
+
+
 ### Validator Testing 
 
 - HTML

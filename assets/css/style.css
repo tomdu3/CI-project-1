@@ -437,6 +437,10 @@ iframe.video {
   align-content: flex-start;
 }
 
+label {
+  text-align: left;
+}
+
 .personal-details > div *{
   display: flex;
   width: 100%;

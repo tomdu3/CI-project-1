@@ -347,7 +347,8 @@ The developer ran into several issues during the development of the website, wit
      - Figma was used to create the wireframes during the design phase of the project.
 - [Am I Responsive?](http://ami.responsivedesign.is/# "Link to Am I Responsive Homepage")
      - Am I Responsive was used in order to see responsive design and to generate mockup imagery to be used in this README file.
-
+- [Webp Converter](https://developers.google.com/speed/webp)
+     - Being the GitPod based on Ubuntu, this converter was used to convert JPEG images used for the web page into WEBP format.
 [Back to top](#smiling-depression)
 
 ## Deployment
@@ -378,6 +379,7 @@ The live link can be found here - https://tomdu3.github.io/CI-project-1/
 - Google Maps were implemented with the help of [How to embed a Google Map into a web page](https://extension.umaine.edu/plugged-in/technology-marketing-communications/web/tips-for-web-managers/embed-map/)
 - Instructions on how to implement form validation on the Contact Us page was taken from the Code Institute Course.
 - The icons used on the pages were taken from [Font Awesome](https://fontawesome.com/)
+- The conversion of the JPEG images to WEBP was made with [Webp Converter](https://developers.google.com/speed/webp) by following the instructions from [Linuxways](https://linuxways.net/ubuntu/how-to-convert-png-jpeg-to-webp-in-ubuntu-also-webp-to-png-and-jpeg/). 
 
 
 ### Media

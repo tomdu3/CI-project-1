@@ -351,9 +351,21 @@ The developer ran into several issues during the development of the website, wit
 
 - **Stretching of the elements** - There were initial issues with the div with image elements overstretching because of the corresponding div with text because of the content distributing in more lines on smaller screens. The issue was solved by the use of media queries with different font sizes and element direction rules.
 
-- **An extra double quote in class Bug** - There was a bug caused by automatic additon of the quotes in VS code with a residue of an extra double quote character after the class attribute. That was pointed out by an HTML validator and subsequently corrected.
+- **An extra double quote in class Bug** - There was a bug caused by automatic additon of the quotes in VS code with a residue of an extra double quote character after the id attribute in short-image-one. That was pointed out by an HTML validator and subsequently corrected.
 
-- **
+- **Section lacks heading Bug** - there were issues with section elements where there were headings missing. Because the developer wanted the content to be only a paragraph/text without headings, the div was chosen instead of the section element.
+
+- **Wrong end tag** - There was a bug regarding the h2 element in the contact section. In the previous version of the code the developer had an h3 element, but was advised by the validator to respect the progressiveness of the heading tags. The developer then changed the h3 tag to h2, but without changing the closing tag - hence the bug. This was corrected.
+
+- **Deprecated frameborder attribute on the iframe element Bug** - When copying the embed code from a YouTube video, the code containes a deprecated attribute *frameborder*. The HTML validator pointed out this issue and the code the attribute was omitted and the valid css border rule was left. The same issue was found in the embed code from Google Maps and was corrected in the same manner.
+
+- **Character reference missing a semicolon Bug** - There was a bug in the character reference where it wasn't terminated by a semicolon (&_nbsp;).
+
+- **Icon not centered in navbar Bug** - When on smaller screens, the navbar splits from one line into two lines, where the icon which was on the left goes at top and is supposed to be centred. It was a bit of because of the left padding that was applied on big screens. The padding was removed on smaller screens so that the icon could be perfectly centered.
+
+- **Mouse not changing to a pointer at submit button Bug** - The mentor pointed out that the submit button should cause the mouse indicator to change into pointer when hovering over. This bug was corrected.
+
+- **Text Area Resizible bug** - In the Contact Us form the textarea that was supposed to be of a fixed size was resizible. That was changed after the mentor pointed it out.
 
 ## Testing 
 

@@ -369,14 +369,11 @@ The developer ran into several issues during the development of the website, wit
 * The Home Page has a few general information about the smiling depression.
 * The Symptoms Page has the information regading the general four symptoms of the smiling depression.
 * The Awareness Page has four videos related to the smiling depression. 
-
 2. As a current user, I want to easily navigate through the site and access the information I require.
 * The navigation bar is clearly defined and easily navigabale for users to find and use.
 * The footer menu is easy to use with recognizable icons on small screens and the text indication on bigger screens.
-
 3. As a current user, I want to easily navigate to content I have previously viewed within a small number of steps.
 * On all sites there's a navigation bar with links to each page.
-
 4. As a current user, I want to easily find the info and contact form for the Institute for Wellbeing.
 * On all pages there's a section with info about location with the accompanying image and Google Map. The first three pages have a Contact Us section and button that leads to the last Contact Us Page with a form to contact the Institute for Wellbeing.
 
@@ -399,13 +396,28 @@ The developer ran into several issues during the development of the website, wit
 * The Symptoms Page has the information regading the general four symptoms of the smiling depression.
 * The Awareness Page has four videos related to the smiling depression. 
 2. As someone who suffers of smiling depression, I want the information I seek to be easily accessible and relevant.
+* The navigation bar is clearly defined and easily navigabale for users to find and use.
+* The footer menu is easy to use with recognizable icons on small screens and the text indication on bigger screens.
 3. As someone who suffers of smiling depression, I want to easily be able to find info about the Institute for Wellbeing and make contact.
+* On all pages there's a section with info about location with the accompanying image and Google Map. The first three pages have a Contact Us section and button that leads to the last Contact Us Page with a form to contact the Institute for Wellbeing.
 
 #### Goals of a Person working/living with someone suffering of smiling depression
 1. As someone who is working/living with a depressed person, I want to factually correct and relevant information about smiling depression and its symptoms.
+* The Home Page has a few general information about the smiling depression.
+* The Symptoms Page has the information regading the general four symptoms of the smiling depression.
+* The Awareness Page has four videos related to the smiling depression. 
 2. As someone who is working/living with a depressed person, I want the information I seek to be easily accessible and relevant.
+* The navigation bar is clearly defined and easily navigabale for users to find and use.
+* The footer menu is easy to use with recognizable icons on small screens and the text indication on bigger screens.
 3. As someone who is working/living with a depressed person, I want to easily be able to find info about the Institute for Wellbeing and make contact on behalf of the person suffering of smiling depression.
+* On all pages there's a section with info about location with the accompanying image and Google Map. The first three pages have a Contact Us section and button that leads to the last Contact Us Page with a form to contact the Institute for Wellbeing.
 
+### Manual Testing
+#### Common Element Testing
+Manual testing was conducted on the following elements that appear on every page:
+* Navigation Bar with a **hover** effect highlights the chosen menu. The current menu is indicated by the underlined effect on a link.
+
+* Clicking on a link on Navigation bar gets a user to the chosen page.
 ### Validator Testing 
 
 - HTML

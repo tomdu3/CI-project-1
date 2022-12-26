@@ -460,9 +460,39 @@ Manual testing was conducted on the following elements that appear on every page
   </details>
 
 #### Homepage
+* The responsiveness of the Homepage
+  <details>
+    <summary>Screencast</summary>
+      <img src="./assets/readme_images/testing/responsiveness-homepage.gif" width="80%" alt="Contact Button link test">
+  </details>
 
+#### Symptoms of Smiling Depression Page
+* The responsiveness of the Symptoms of Smiling Depression
+  <details>
+    <summary>Screencast</summary>
+      <img src="./assets/readme_images/testing/responsiveness-symptoms.gif" width="80%" alt="Contact Button link test">
+  </details>
 
-### Validator Testing 
+#### Awareness Page
+* The responsiveness of the Awareness Page
+  <details>
+    <summary>Screencast</summary>
+      <img src="./assets/readme_images/testing/responsiveness-awareness.gif" width="80%" alt="Contact Button link test">
+  </details>
+
+#### Contact Us Page
+* The responsiveness of the Contact Us Page
+  <details>
+    <summary>Screencast</summary>
+      <img src="./assets/readme_images/testing/responsiveness-contact-us.gif" width="80%" alt="Contact Button link test">
+  </details>
+* Testing of the validity of input in the form
+  <details>
+    <summary>Screencast</summary>
+      <img src="./assets/readme_images/testing/validity-contact-us.gif" width="80%" alt="Contact Button link test">
+  </details>
+
+### Final Validator Testing 
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftomdu3.github.io%2FCI-project-1%2F)
@@ -477,6 +507,8 @@ Manual testing was conducted on the following elements that appear on every page
       </a>
     </p>
 
+### Lighthouse Testing
+  
 ## Credits 
 ### Content 
 - Texts are taken and adapted from the sites:

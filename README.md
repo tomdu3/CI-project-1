@@ -141,42 +141,15 @@ The information above was then organized in a hierarchical tree structure, a sit
 #### Skeleton
 Wireframes were made as presentation of the site pages while keeping a positive user experience in mind. They were created using an online version of [Figma](https://figma.com/).
 
-**Figma Wireframes**
 <details>
-<summary>Homepage Wireframes</summary>
+<summary>Figma Wireframes</summary>
 
-<img src="./assets/readme_images/wireframes/homepage.png" width="200px" alt="Homepage Mobile Wireframe">
-<img src="./assets/readme_images/wireframes/homepage-tablet.png" width="200px" alt="Homepage Tablet Wireframe">
-<img src="./assets/readme_images/wireframes/homepage-desktop.png" width="200px" alt="Homepage Desktop Wireframe">
+<img src="./assets/readme_images/wireframe-homepage.png" width="800px" alt="Homepage Wireframe">
+<img src="./assets/readme_images/wireframe-symptoms.png" width="800px" alt="Symptoms of Smiling Depression Wireframe">
+<img src="./assets/readme_images/wireframe-awareness.png" width="800px" alt="Awareness Video Wireframe">
+<img src="./assets/readme_images/wireframe-contact-us.png" width="800px" alt="Contact Us Wireframe">
 
 </details>
-
-<details>
-<summary>Symptoms of Smiling Depression Wireframes</summary>
-
-![Symptoms Mobile Wireframe](assets/readme_images/wireframes/symptoms_of_smiling_depression.png)
-![Symptoms Tablet Wireframe](assets/readme_images/wireframes/symptoms_of_smiling_depression-tablet.png)
-![Symptoms Desktop Wireframe](assets/readme_images/wireframes/symptoms_of_smiling_depression-desktop.png)
-
-</details>
-
-<details>
-<summary>Smiling Depression Awareness Videos Wireframes</summary>
-
-![Awareness Mobile Wireframe](assets/readme_images/wireframes/awareness.png)
-![Awareness Mobile Wireframe](assets/readme_images/wireframes/awareness-tablet.png)
-![Awareness Mobile Wireframe](assets/readme_images/wireframes/awareness-desktop.png)
-
-</details>
-
-<details>
-<summary>Contact Us Wireframes</summary>
-
-![Contact Us Mobile Wireframe](assets/readme_images/wireframes/contact_us.png)
-![Contact Us Mobile Wireframe](assets/readme_images/wireframes/contact_us-tablet.png)
-![Contact Us Mobile Wireframe](assets/readme_images/wireframes/contact_us-desktop.png)
-
-</details>    
 
 ### Design
 #### Colour Scheme

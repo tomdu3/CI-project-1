@@ -154,14 +154,14 @@ Wireframes were made as presentation of the site pages while keeping a positive 
 ### Design
 #### Colour Scheme
 Colour Scheme was made by [Colourmind](http://colormind.io/template/material-dashboard/). 
-<!-- 
+
 <details>
-<summary>Colour Palette</summary> -->
+<summary>Colour Palette</summary>
 
 ![Colour Palette](assets/readme_images/palette.png)
-<!-- 
+
 </details>
-<br> -->
+<br>
 
 #### Typography
 The typography pairing used on the site are [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?query=roboto+mono) and [Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates?query=montserrat+alternates) imported from [Google Fonts](https://fonts.google.com/). Fonts Tahoma, Helvetica and sans-serifin are used as backup fonts in case of import failure. Montserrat Alternates is chosen for the titles, headings and copyright section, whilst Roboto Mono is used for the standard text parts, navbar and social network links.
@@ -342,8 +342,18 @@ The selected imagery has been sourced and created from various sites. The Panthe
 The live link can be found here - https://tomdu3.github.io/CI-project-1/ 
 
 ## Issues and Bugs 
+
 The developer ran into several issues during the development of the website, with the noteworthy ones listed below, along with solutions or ideas to implement in the future.
-**yet to be added**
+
+- **Responsiveness** - In his first attempt into styling of the web page, the developer started with the desktop sized screen. He found this approach more difficult whilst the majority of the courses online (including the Code Institute Course) were suggesting and describing the mobile-first approach. The developer overcame this issue by starting anew with the suggested approach of styling.
+
+- **Side Scrolling** - That was quite visible in the navbar and sections with combined text and image elements. There were different instances of side scrolling with extra white space. The main reason of these issues was the *overuse* of the non responsive sizing (mainly px). That was solved with primary use of the responsive size units.
+
+- **Stretching of the elements** - There were initial issues with the div with image elements overstretching because of the corresponding div with text because of the content distributing in more lines on smaller screens. The issue was solved by the use of media queries with different font sizes and element direction rules.
+
+- **An extra double quote in class Bug** - There was a bug caused by automatic additon of the quotes in VS code with a residue of an extra double quote character after the class attribute. That was pointed out by an HTML validator and subsequently corrected.
+
+- **
 
 ## Testing 
 

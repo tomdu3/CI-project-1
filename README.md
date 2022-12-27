@@ -465,36 +465,65 @@ Manual testing was conducted on the following elements that appear on every page
 * The responsiveness of the Homepage
   <details>
     <summary>Screencast</summary>
-      <img src="./assets/readme_images/testing/responsiveness-homepage.gif" width="80%" alt="Contact Button link test">
+      <img src="./assets/readme_images/testing/responsiveness-homepage.gif" width="80%" alt="Responsiveness Homepage">
   </details>
 
 #### Symptoms of Smiling Depression Page
 * The responsiveness of the Symptoms of Smiling Depression
   <details>
     <summary>Screencast</summary>
-      <img src="./assets/readme_images/testing/responsiveness-symptoms.gif" width="80%" alt="Contact Button link test">
+      <img src="./assets/readme_images/testing/responsiveness-symptoms.gif" width="80%" alt="Responsiveness Symptoms Page">
   </details>
 
 #### Awareness Page
 * The responsiveness of the Awareness Page
   <details>
     <summary>Screencast</summary>
-      <img src="./assets/readme_images/testing/responsiveness-awareness.gif" width="80%" alt="Contact Button link test">
+      <img src="./assets/readme_images/testing/responsiveness-awareness.gif" width="80%" alt="Responsiveness Awareness Page">
   </details>
 
 #### Contact Us Page
 * The responsiveness of the Contact Us Page
   <details>
     <summary>Screencast</summary>
-      <img src="./assets/readme_images/testing/responsiveness-contact-us.gif" width="80%" alt="Contact Button link test">
+      <img src="./assets/readme_images/testing/responsiveness-contact-us.gif" width="80%" alt="Responsiveness Contact Us Page">
   </details>
 * Testing of the validity of input in the form
   <details>
     <summary>Screencast</summary>
-      <img src="./assets/readme_images/testing/validity-contact-us.gif" width="80%" alt="Contact Button link test">
+      <img src="./assets/readme_images/testing/validity-contact-us.gif" width="80%" alt="Validity Input Form Test">
   </details>
 
-### Final Validator Testing 
+### Validator Testing 
+#### First Validator Testing 
+* The issues and bugs were mentioned in [Issues and Bugs](#issues-and-bugs).
+- HTML
+  * [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftomdu3.github.io%2FCI-project-1%2F)
+  <details>
+    <summary>Homepage</summary>
+      <img src="./assets/readme_images/testing/index_test.png" width="80%" alt="Homepage Validator Test">
+  </details>
+  <details>
+    <summary>Symptoms of Smiling Depression</summary>
+      <img src="./assets/readme_images/testing/symptoms_test.png" width="80%" alt="Symptoms Page Validator Test">
+  </details>
+  <details>
+    <summary>Awareness Page</summary>
+      <img src="./assets/readme_images/testing/awareness_test.png" width="80%" alt="Awareness Page Validator Test">
+  </details>
+  <details>
+    <summary>Contact Us Page</summary>
+      <img src="./assets/readme_images/testing/contact-us_test.png" width="80%" alt="Contact Us Page Validator Test">
+  </details>
+
+- CSS
+  - [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftomdu3.github.io%2FCI-project-1%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  <details>
+    <summary>CSS Style</summary>
+      <img src="./assets/readme_images/testing/index_test.png" width="80%" alt="CSS Style Validator Test">
+  </details>
+
+### Final Validator Testing
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftomdu3.github.io%2FCI-project-1%2F)

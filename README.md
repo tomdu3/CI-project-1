@@ -158,7 +158,7 @@ Colour Scheme was made by [Colourmind](http://colormind.io/template/material-das
 <details>
 <summary>Colour Palette</summary>
 
-![Colour Palette](assets/readme_images/palette.png)
+![Colour Palette](assets/readme_images/features/palette.png)
 
 </details>
 

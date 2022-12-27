@@ -226,7 +226,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
   
   <details>
     <summary>Screenshot</summary>
-    <img src="./assets/readme_images/features/contact-us.png" width="500px">
+    <img src="./assets/readme_images/features/contact-us.png" width="200px">
   </summary>
 
   

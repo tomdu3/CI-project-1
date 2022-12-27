@@ -252,7 +252,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
   <details>
     <summary>Screenshots</summary>
     <img src="./assets/readme_images/features/footer.png" width="80%">
-    <img src="./assets/readme_images/features/footer2.png" width="80%">
+    <img src="./assets/readme_images/features/footer1.png" width="80%">
   </details>
   
   
@@ -279,7 +279,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
   <details>
     <summary>Screenshot</summary>
     <img src="./assets/readme_images/features/awareness.png" height="500px">
-    <img src="./assets/readme_images/features/awareness2.png" height="500px">
+    <img src="./assets/readme_images/features/awareness1.png" height="500px">
   </details>
 
   
@@ -291,8 +291,8 @@ The selected imagery has been sourced and created from various sites. The Panthe
   
   <details>
     <summary>Screenshot</summary>
-    <img src="./assets/readme_images/featurescontact-form.png" width="80%">
-    <img src="./assets/readme_images/featurescontact-form1.png" width="80%">
+    <img src="./assets/readme_images/features/contact-form.png" width="80%">
+    <img src="./assets/readme_images/features/contact-form1.png" width="80%">
 
   </details>
  

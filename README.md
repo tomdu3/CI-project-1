@@ -185,9 +185,9 @@ The selected imagery has been sourced and created from various sites. The Panthe
   
   <details>
     <summary>Screenshot</summary>
-    <img src="./assets/readme_images/navbar.png" width="80%">
-    <img src="./assets/readme_images/navbar2.png" width="80%">
-    <img src="./assets/readme_images/navbar3.png" width="80%">
+    <img src="./assets/readme_images/features/navbar.png" width="80%">
+    <img src="./assets/readme_images/features/navbar2.png" width="80%">
+    <img src="./assets/readme_images/features/navbar3.png" width="80%">
   </details>
 
   
@@ -200,7 +200,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
   
   <details>
     <summary>Screenshot</summary>
-    <img src="./assets/readme_images/landing-image.png" width="80%">
+    <img src="./assets/readme_images/features/hero.png" width="80%">
   </details>
 
   
@@ -213,7 +213,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
   
   <details>
     <summary>Screenshot</summary>
-    <img src="./assets/readme_images/short-info.png" width="80%">
+    <img src="./assets/readme_images/features/short-info.png" width="80%">
   </details>
 
   
@@ -226,7 +226,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
   
   <details>
     <summary>Screenshot</summary>
-    <img src="./assets/readme_images/contact.png" width="500px">
+    <img src="./assets/readme_images/features/contact-us.png" width="500px">
   </summary>
 
   
@@ -239,7 +239,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
   
   <details>
     <summary>Screenshot</summary>
-    <img src="./assets/readme_images/address.png" width="80%">
+    <img src="./assets/readme_images/features/address.png" width="80%">
   </details>
 
 - __The Footer__ 
@@ -251,8 +251,8 @@ The selected imagery has been sourced and created from various sites. The Panthe
   
   <details>
     <summary>Screenshots</summary>
-    <img src="./assets/readme_images/footer.png" width="80%">
-    <img src="./assets/readme_images/footer2.png" width="80%">
+    <img src="./assets/readme_images/features/footer.png" width="80%">
+    <img src="./assets/readme_images/features/footer2.png" width="80%">
   </details>
   
   
@@ -265,7 +265,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
   
   <details>
     <summary>Screenshot</summary>
-    <img src="./assets/readme_images/articles.png" width="80%">
+    <img src="./assets/readme_images/features/articles.png" width="80%">
   </details>
 
   
@@ -278,8 +278,8 @@ The selected imagery has been sourced and created from various sites. The Panthe
   
   <details>
     <summary>Screenshot</summary>
-    <img src="./assets/readme_images/videos.png" height="500px">
-    <img src="./assets/readme_images/videos2.png" height="500px">
+    <img src="./assets/readme_images/features/awareness.png" height="500px">
+    <img src="./assets/readme_images/features/awareness2.png" height="500px">
   </details>
 
   
@@ -291,7 +291,9 @@ The selected imagery has been sourced and created from various sites. The Panthe
   
   <details>
     <summary>Screenshot</summary>
-    <img src="./assets/readme_images/contact-us.png" width="80%">
+    <img src="./assets/readme_images/featurescontact-form.png" width="80%">
+    <img src="./assets/readme_images/featurescontact-form1.png" width="80%">
+
   </details>
  
 

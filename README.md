@@ -187,7 +187,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
     <summary>Screenshot</summary>
     <img src="./assets/readme_images/features/navbar.png" width="80%">
     <img src="./assets/readme_images/features/navbar2.png" width="80%">
-    <img src="./assets/readme_images/features/navbar3.png" width="80%">
+    <img src="./assets/readme_images/features/navbar3.png" width="50%">
   </details>
 
   
@@ -226,7 +226,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
   
   <details>
     <summary>Screenshot</summary>
-    <img src="./assets/readme_images/features/contact-us.png" width="200px">
+    <img src="./assets/readme_images/features/contact-us.png" width="300px">
   </summary>
 
   
@@ -252,7 +252,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
   <details>
     <summary>Screenshots</summary>
     <img src="./assets/readme_images/features/footer.png" width="80%">
-    <img src="./assets/readme_images/features/footer1.png" width="80%">
+    <img src="./assets/readme_images/features/footer1.png" width="40%">
   </details>
   
   

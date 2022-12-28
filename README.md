@@ -318,7 +318,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
   * Being the GitPod based on Ubuntu, this converter was used to convert JPEG images used for the web page into WEBP format.
 * [ImageMagick](https://imagemagick.org/index.php)
   * ImageMagick was used to easily resize images.
-  
+
 [Back to top](#smiling-depression)
 
 ## Deployment
@@ -564,6 +564,35 @@ The issues and bugs were mentioned in [Issues and Bugs](#issues-and-bugs).
   <details>
     <summary>Screencast</summary>
       <img src="./assets/readme_images/testing/responsiveness-contact-us.png" width="400px" alt="Lighthouse Contact Us Page">
+  </details>
+
+[Back to top](#smiling-depression)
+
+### Browser Validation
+
+  <details>
+    <summary>Google Chrome</summary>
+      <img src="./assets/readme_images/testing/test_chrome.png" width="80%" alt="Google Chrome Validation">
+  </details>
+
+  <details>
+    <summary>Mozilla Firefox</summary>
+      <img src="./assets/readme_images/testing/test_firefox.png" width="80%" alt="Mozilla Firefox Validation">
+  </details>
+
+  <details>
+    <summary>Microsoft Edge</summary>
+      <img src="./assets/readme_images/testing/test_edge.png" width="80%" alt="Microsoft Edge Validation">
+  </details>
+
+  <details>
+    <summary>Vivaldi</summary>
+      <img src="./assets/readme_images/testing/test_vivaldi.png" width="80%" alt="Vivaldi Validation">
+  </details>
+
+  <details>
+    <summary>Brave</summary>
+      <img src="./assets/readme_images/testing/test_brave.png" width="80%" alt="Brave Validation">
   </details>
 
 [Back to top](#smiling-depression)

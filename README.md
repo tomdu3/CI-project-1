@@ -26,6 +26,8 @@
   2. [Manual Testing](#manual-testing)
   3. [Validator Testing](#validator-testing)
   4. [Lighthouse Testing](#lighthouse-testing)
+  5. [Browser Validation](#browser-validation)
+  6. [User Testing](#user-testing)
 8. [Credits](#credits)
   1. [Content](#content)
   2. [Code Features](#code-features)
@@ -642,6 +644,7 @@ My friends, family and co-workers were asked to review the site and documentatio
 [Back to top](#smiling-depression)
 
 ## Acknowledgements
-**yet to be added**
-
+* I would like to thank "my inner circle", a selected few who supported me and tested the site. There are the only ones knowing about my coding journey.
+* A special thanks to my mentor Koko (Oluwaseun Owonikoko) who patiently and wisely directed me towards the completion of this project.
+* Thanks to Lane-Sawyer Thompson and Ger Tobin, the Gandalf and Yoda of our October22 cohort. They were supporting, coaching and encouraging me the whole way. Awesome people. 
 [Back to top](#smiling-depression)

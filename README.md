@@ -330,7 +330,9 @@ The selected imagery has been sourced and created from various sites. The Panthe
   * From the source section drop-down menu, select the **main** branch and click on **save**.
   * Once the main branch has been selected and saved, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://tomdu3.github.io/smiling-depression/
+The live link can be found here - https://tomdu3.github.io/smiling-depression/.
+
+*The site was previously deployed on the following address https://tomdu3.github.io/CI-project-1/, but the developer renamed the repository and subsequently the deployment live link was changed.*
 
 ## Issues and Bugs 
 

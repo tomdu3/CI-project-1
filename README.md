@@ -518,7 +518,7 @@ The issues and bugs were mentioned in [Issues and Bugs](#issues-and-bugs).
   </details>
 
 * CSS
-  * [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftomdu3.github.io%2FCI-project-1%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  * [(Jigsaw) validator]()
 
   <details>
     <summary>CSS Style</summary>
@@ -530,14 +530,15 @@ The issues and bugs were mentioned in [Issues and Bugs](#issues-and-bugs).
   * No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftomdu3.github.io%2FCI-project-1%2F)
        
 * CSS
-  * No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftomdu3.github.io%2FCI-project-1%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-    <p>
-      <a href="https://jigsaw.w3.org/css-validator/check/referer">
-          <img style="border:0;width:88px;height:31px"
-              src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
-              alt="Valid CSS!" />
-      </a>
-    </p>
+  * No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftomdu3.github.io%2Fsmiling-depression%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  <p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+  </p>
+      
 
 [Back to top](#smiling-depression)
 
@@ -644,7 +645,7 @@ My friends, family and co-workers were asked to review the site and documentatio
 [Back to top](#smiling-depression)
 
 ## Acknowledgements
-* I would like to thank "my inner circle", a selected few who supported me and tested the site. There are the only ones knowing about my coding journey.
+* I would like to thank "my inner circle", a selected few, who supported me and tested the site. They are the only ones who knew about my coding journey.
 * A special thanks to my mentor Koko (Oluwaseun Owonikoko) who patiently and wisely directed me towards the completion of this project.
 * Thanks to Lane-Sawyer Thompson and Ger Tobin, the Gandalf and Yoda of our October22 cohort. They were supporting, coaching and encouraging me the whole way. Awesome people. 
 [Back to top](#smiling-depression)

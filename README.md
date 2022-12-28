@@ -19,9 +19,13 @@
 4. [Technologies Used](#technologies-used)
   1. [Main Languages Used](#main-languages-used)
   2. [Frameworks, Libraries & Programs Used](#frameworks,-libraries-&-programs-used)
-5. [Issues and Bugs](#issues-and-bugs)
-6. [Testing](#testing)
-7. [Deployment](#deployment)
+5. [Deployment](#deployment)
+6. [Issues and Bugs](#issues-and-bugs)
+7. [Testing](#testing)
+  1. [User Stories Testing](#user-stories-testing)
+  2. [Manual Testing](#manual-testing)
+  3. [Validator Testing](#validator-testing)
+  4. [Lighthouse Testing](#lighthouse-testing)
 8. [Credits](#credits)
   1. [Content](#content)
   2. [Code Features](#code-features)
@@ -312,6 +316,9 @@ The selected imagery has been sourced and created from various sites. The Panthe
   * Am I Responsive was used in order to see responsive design and to generate mockup imagery to be used in this README file.
 * [Webp Converter](https://developers.google.com/speed/webp)
   * Being the GitPod based on Ubuntu, this converter was used to convert JPEG images used for the web page into WEBP format.
+* [ImageMagick](https://imagemagick.org/index.php)
+  * ImageMagick was used to easily resize images.
+  
 [Back to top](#smiling-depression)
 
 ## Deployment
@@ -516,7 +523,7 @@ The issues and bugs were mentioned in [Issues and Bugs](#issues-and-bugs).
       <img src="./assets/readme_images/testing/Stylecss_test.png" width="80%" alt="CSS Style Validator Test">
   </details>
 
-### Final Validator Testing
+#### Final Validator Testing
 * HTML
   * No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftomdu3.github.io%2FCI-project-1%2F)
        
@@ -544,26 +551,21 @@ The issues and bugs were mentioned in [Issues and Bugs](#issues-and-bugs).
 #### Symptoms of Smiling Depression Page
   <details>
     <summary>Screenshot</summary>
-      <img src="./assets/readme_images/testing/lighthouse-symptoms.gif" width="400px" alt="Lighthouse Symptoms Page">
+      <img src="./assets/readme_images/testing/lighthouse-symptoms.png" width="400px" alt="Lighthouse Symptoms Page">
   </details>
 
 #### Awareness Page
   <details>
     <summary>Screenshot</summary>
-      <img src="./assets/readme_images/testing/lighthouse-awareness.gif" width="80%" alt="Lighthouse Awareness Page">
+      <img src="./assets/readme_images/testing/lighthouse-awareness.png" width="400px" alt="Lighthouse Awareness Page">
   </details>
 
 #### Contact Us Page
-* The responsiveness of the Contact Us Page
   <details>
     <summary>Screencast</summary>
-      <img src="./assets/readme_images/testing/responsiveness-contact-us.gif" width="80%" alt="Responsiveness Contact Us Page">
+      <img src="./assets/readme_images/testing/responsiveness-contact-us.png" width="400px" alt="Lighthouse Contact Us Page">
   </details>
-* Testing of the validity of input in the form
-  <details>
-    <summary>Screencast</summary>
-      <img src="./assets/readme_images/testing/validity-contact-us.gif" width="80%" alt="Validity Input Form Test">
-  </details>
+
 [Back to top](#smiling-depression)
 
 ## Credits 

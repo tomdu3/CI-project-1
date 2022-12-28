@@ -330,7 +330,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
   * From the source section drop-down menu, select the **main** branch and click on **save**.
   * Once the main branch has been selected and saved, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://tomdu3.github.io/smiling-depression/ or https://tomdu3.github.io/CI-project-1/ 
+The live link can be found here - https://tomdu3.github.io/smiling-depression/
 
 ## Issues and Bugs 
 
@@ -498,7 +498,7 @@ Manual testing was conducted on the following elements that appear on every page
 #### First Validator Testing 
 The issues and bugs were mentioned in [Issues and Bugs](#issues-and-bugs).
 * HTML
-  * [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftomdu3.github.io%2Fsmiling-depression%2F)
+  * [W3C validator](https://validator.w3.org/nu/)
   
   <details>
     <summary>Homepage</summary>
@@ -518,7 +518,7 @@ The issues and bugs were mentioned in [Issues and Bugs](#issues-and-bugs).
   </details>
 
 * CSS
-  * [(Jigsaw) validator]()
+  * [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
 
   <details>
     <summary>CSS Style</summary>
@@ -527,7 +527,7 @@ The issues and bugs were mentioned in [Issues and Bugs](#issues-and-bugs).
 
 #### Final Validator Testing
 * HTML
-  * No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftomdu3.github.io%2FCI-project-1%2F)
+  * No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftomdu3.github.io%2Fsmiling-depression%2F)
        
 * CSS
   * No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftomdu3.github.io%2Fsmiling-depression%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)

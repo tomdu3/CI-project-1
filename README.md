@@ -498,7 +498,7 @@ Manual testing was conducted on the following elements that appear on every page
 #### First Validator Testing 
 The issues and bugs were mentioned in [Issues and Bugs](#issues-and-bugs).
 * HTML
-  * [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftomdu3.github.io%2FCI-project-1%2F)
+  * [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftomdu3.github.io%2Fsmiling-depression%2F)
   
   <details>
     <summary>Homepage</summary>

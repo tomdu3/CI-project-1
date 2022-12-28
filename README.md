@@ -562,7 +562,7 @@ The issues and bugs were mentioned in [Issues and Bugs](#issues-and-bugs).
 
     <details>
       <summary>Contact Us Page</summary>
-        <img src="./assets/readme_images/testing/responsiveness-contact-us.png" width="400px" alt="Lighthouse Contact Us Page">
+        <img src="./assets/readme_images/testing/lighthouse-contact-us.png" width="400px" alt="Lighthouse Contact Us Page">
     </details>
 
 [Back to top](#smiling-depression)

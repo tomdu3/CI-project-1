@@ -4,7 +4,7 @@
 ## Project Portfolio 1 of Diploma in Full Stack Software Development at Code Institute
 <img src="./assets/readme_images/amiresponsive.png" width="80%">
 
-[View the live site](https://tomdu3.github.io/CI-project-1/)
+[View the live site](https://tomdu3.github.io/smiling-depression/)
 
 ## Table of contents
 1. [Site Info](#site-info)
@@ -170,7 +170,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
 
 ## Features 
 ### Existing Features
-* __Navigation Bar__
+* **Navigation Bar**
 
   * Featured on all four pages, the full responsive navigation bar includes the Logo and links to the Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
   * The logo (upside down smiley) appears on the left side whilst the links to Home, Symptoms, Awareness and Contact. The current page is marked by the underlined style of the link.
@@ -188,7 +188,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
 
   
 
-* __The landing page image__
+* **The landing page image**
 
   * The landing includes a photograph with text overlay to allow the user to see the exact topic of the web site.
   * This section introduces the user to Smiling Depression with an image that powerfully depicts the essence of this condition - a guy's face out of focus in front of which is his smartphone with him smiling.
@@ -200,7 +200,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
     <img src="./assets/readme_images/features/hero.png" width="80%">
   </details>
 
-* __Short Info Section__
+* **Short Info Section**
 
   * This section allows the user to grasp the general info about the smiling depression condition.
   * The accompanying images in a circle shaped fashion underline the info text
@@ -212,7 +212,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
     <img src="./assets/readme_images/features/short-info.png" width="80%">
   </details>
 
-* __Contact Section__
+* **Contact Section**
   * This section section appears every page, except the Contact page to which the Contact Us button is leading on click. 
   * There's an encouraging message 
 
@@ -222,7 +222,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
     <img src="./assets/readme_images/features/contact-us.png" width="300px">
   </summary>
 
-* __The Address and Map__
+* **The Address and Map**
 
   * This section gives the information about the location of the fictitious Institute for Wellbeing in Rome
   * Other than the address, there's an image of the Institute (Pantheon) and below these information there's an interactive Google Map section.
@@ -234,7 +234,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
     <img src="./assets/readme_images/features/address.png" width="80%">
   </details>
 
-* __The Footer__ 
+* **The Footer** 
 
   * The footer section includes links to the relevant social media sites of the Institute (actually leading only to the hompegaes of the respective social media sites). The links will open to a new tab to allow easy navigation for the user. 
   * The footer is valuable to the user as it encourages them to keep connected via social media.
@@ -248,7 +248,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
     <img src="./assets/readme_images/features/footer1.png" width="40%">
   </details>
   
-* __Symptoms of Smiling Depression Page__
+* **Symptoms of Smiling Depression Page**
 
   * This page main section provides articles about the most common symptoms of smiling depression. There are four articles, each represented by a title, image and a paragraph of text.
   * On bigger screens, paragraph takes 2/3 of the row, whilst image with the title occupies 1/3. Every second article changes the position of the paragraph and image as well as colour. On smaller screens, the image is above the paragraph and both take 100% of the width.
@@ -259,7 +259,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
     <img src="./assets/readme_images/features/articles.png" width="80%">
   </details>
 
-* __Awareness and Testimonials about Smiling Depression Page__
+* **Awareness and Testimonials about Smiling Depression Page**
 
   * This page has a distinctive video gallery that will provide the user with the YouTube videos about smiling depression. 
   * The organization of the videos is very simple - one video per row on smaller screens in order to make user to concentrate on each story instead of the visual appearence of the gallery. On big screens - the video gallery features two videos per row.
@@ -272,7 +272,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
     <img src="./assets/readme_images/features/awareness1.png" height="500px">
   </details>
 
-* __Contact Us Page__
+* **Contact Us Page**
 
   * This page will allow the user to send his minimal details in order to get contacted by the Institute for Wellbeing. The name and email address are requested, whilest the message is optional.
   * On bigger screens an image of a clown-like fake smile person apears to the left side of the form.
@@ -285,7 +285,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
   </details>
  
 ### Features to Implement
-* __Short Testimonials Page__
+* **Short Testimonials Page**
   * This could be a nice interactive page in where the testimonials of users who visited the page would be presented. The users would be invited to share their experiences about the smiling depression, the Institute of Wellbeing and the website content.
 
 ## Technologies Used
@@ -321,7 +321,7 @@ The selected imagery has been sourced and created from various sites. The Panthe
   * From the source section drop-down menu, select the **main** branch and click on **save**.
   * Once the main branch has been selected and saved, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://tomdu3.github.io/CI-project-1/ 
+The live link can be found here - https://tomdu3.github.io/smiling-depression/ or https://tomdu3.github.io/CI-project-1/ 
 
 ## Issues and Bugs 
 
@@ -406,7 +406,7 @@ The developer ran into several issues during the development of the website, wit
 ### Manual Testing
 #### Common Element Testing
 Manual testing was conducted on the following elements that appear on every page:
-* Navigation Bar with a **hover** effect highlights the chosen menu. The current menu is indicated by the underlined effect on a link.
+* Navigation Bar with a **hover** effect highlights the chosen menu item. The current page is indicated by the underlined effect on a link.
   <details>
     <summary>Screencast</summary>
     <img src="./assets/readme_images/testing/navbar-hover.gif" width="80%" alt="Navigation Bar hover/unhover">
@@ -490,6 +490,7 @@ Manual testing was conducted on the following elements that appear on every page
 The issues and bugs were mentioned in [Issues and Bugs](#issues-and-bugs).
 * HTML
   * [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftomdu3.github.io%2FCI-project-1%2F)
+  
   <details>
     <summary>Homepage</summary>
       <img src="./assets/readme_images/testing/index_test.png" width="80%" alt="Homepage Validator Test">
@@ -509,9 +510,10 @@ The issues and bugs were mentioned in [Issues and Bugs](#issues-and-bugs).
 
 * CSS
   * [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftomdu3.github.io%2FCI-project-1%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
   <details>
     <summary>CSS Style</summary>
-      <img src="./assets/readme_images/testing/index_test.png" width="80%" alt="CSS Style Validator Test">
+      <img src="./assets/readme_images/testing/Stylecss_test.png" width="80%" alt="CSS Style Validator Test">
   </details>
 
 ### Final Validator Testing
@@ -531,7 +533,37 @@ The issues and bugs were mentioned in [Issues and Bugs](#issues-and-bugs).
 [Back to top](#smiling-depression)
 
 ### Lighthouse Testing
+* Performance test was made by **Lighthouse** in Chrome DevTools.
 
+#### Homepage
+  <details>
+    <summary>Screenshot</summary>
+      <img src="./assets/readme_images/testing/lighthouse-homepage.png" width="400px" alt="Lighthouse Homepage">
+  </details>
+
+#### Symptoms of Smiling Depression Page
+  <details>
+    <summary>Screenshot</summary>
+      <img src="./assets/readme_images/testing/lighthouse-symptoms.gif" width="400px" alt="Lighthouse Symptoms Page">
+  </details>
+
+#### Awareness Page
+  <details>
+    <summary>Screenshot</summary>
+      <img src="./assets/readme_images/testing/lighthouse-awareness.gif" width="80%" alt="Lighthouse Awareness Page">
+  </details>
+
+#### Contact Us Page
+* The responsiveness of the Contact Us Page
+  <details>
+    <summary>Screencast</summary>
+      <img src="./assets/readme_images/testing/responsiveness-contact-us.gif" width="80%" alt="Responsiveness Contact Us Page">
+  </details>
+* Testing of the validity of input in the form
+  <details>
+    <summary>Screencast</summary>
+      <img src="./assets/readme_images/testing/validity-contact-us.gif" width="80%" alt="Validity Input Form Test">
+  </details>
 [Back to top](#smiling-depression)
 
 ## Credits 

@@ -597,6 +597,11 @@ The issues and bugs were mentioned in [Issues and Bugs](#issues-and-bugs).
 
 [Back to top](#smiling-depression)
 
+### User testing
+My friends, family and co-workers were asked to review the site and documentation, to test the links and to try to find any bugs and user experience issues. With their insightful comments and especially Mentor's guidance, the site went through some changes to the UX experience and some other choices of the overall function were made. 
+
+[Back to top](#smiling-depression)
+
 ## Credits 
 ### Content 
 * Texts are taken and adapted from the sites:

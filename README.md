@@ -518,7 +518,7 @@ The issues and bugs were mentioned in [Issues and Bugs](#issues-and-bugs).
   </details>
 
 * CSS
-  * [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
+  * [Jigsaw validator](https://jigsaw.w3.org/css-validator/)
 
   <details>
     <summary>CSS Style</summary>
@@ -530,7 +530,7 @@ The issues and bugs were mentioned in [Issues and Bugs](#issues-and-bugs).
   * No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftomdu3.github.io%2Fsmiling-depression%2F)
        
 * CSS
-  * No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftomdu3.github.io%2Fsmiling-depression%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  * No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftomdu3.github.io%2Fsmiling-depression%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
   <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
@@ -543,60 +543,56 @@ The issues and bugs were mentioned in [Issues and Bugs](#issues-and-bugs).
 [Back to top](#smiling-depression)
 
 ### Lighthouse Testing
-* Performance test was made by **Lighthouse** in Chrome DevTools.
+  * Performance test was made by **Lighthouse** in Chrome DevTools.
 
-#### Homepage
-  <details>
-    <summary>Screenshot</summary>
-      <img src="./assets/readme_images/testing/lighthouse-homepage.png" width="400px" alt="Lighthouse Homepage">
-  </details>
+    <details>
+      <summary>Homepage</summary>
+        <img src="./assets/readme_images/testing/lighthouse-homepage.png" width="400px" alt="Lighthouse Homepage">
+    </details>
 
-#### Symptoms of Smiling Depression Page
-  <details>
-    <summary>Screenshot</summary>
-      <img src="./assets/readme_images/testing/lighthouse-symptoms.png" width="400px" alt="Lighthouse Symptoms Page">
-  </details>
+    <details>
+      <summary>Symptoms of Smiling Depression Page</summary>
+        <img src="./assets/readme_images/testing/lighthouse-symptoms.png" width="400px" alt="Lighthouse Symptoms Page">
+    </details>
 
-#### Awareness Page
-  <details>
-    <summary>Screenshot</summary>
-      <img src="./assets/readme_images/testing/lighthouse-awareness.png" width="400px" alt="Lighthouse Awareness Page">
-  </details>
+    <details>
+      <summary>Awareness Page</summary>
+        <img src="./assets/readme_images/testing/lighthouse-awareness.png" width="400px" alt="Lighthouse Awareness Page">
+    </details>
 
-#### Contact Us Page
-  <details>
-    <summary>Screencast</summary>
-      <img src="./assets/readme_images/testing/responsiveness-contact-us.png" width="400px" alt="Lighthouse Contact Us Page">
-  </details>
+    <details>
+      <summary>Contact Us Page</summary>
+        <img src="./assets/readme_images/testing/responsiveness-contact-us.png" width="400px" alt="Lighthouse Contact Us Page">
+    </details>
 
 [Back to top](#smiling-depression)
 
 ### Browser Validation
+  * The site was tested on the following browsers:
+    <details>
+      <summary>Google Chrome</summary>
+        <img src="./assets/readme_images/testing/test_chrome.png" width="80%" alt="Google Chrome Validation">
+    </details>
 
-  <details>
-    <summary>Google Chrome</summary>
-      <img src="./assets/readme_images/testing/test_chrome.png" width="80%" alt="Google Chrome Validation">
-  </details>
+    <details>
+      <summary>Mozilla Firefox</summary>
+        <img src="./assets/readme_images/testing/test_firefox.png" width="80%" alt="Mozilla Firefox Validation">
+    </details>
 
-  <details>
-    <summary>Mozilla Firefox</summary>
-      <img src="./assets/readme_images/testing/test_firefox.png" width="80%" alt="Mozilla Firefox Validation">
-  </details>
+    <details>
+      <summary>Microsoft Edge</summary>
+        <img src="./assets/readme_images/testing/test_edge.png" width="80%" alt="Microsoft Edge Validation">
+    </details>
 
-  <details>
-    <summary>Microsoft Edge</summary>
-      <img src="./assets/readme_images/testing/test_edge.png" width="80%" alt="Microsoft Edge Validation">
-  </details>
+    <details>
+      <summary>Vivaldi</summary>
+        <img src="./assets/readme_images/testing/test_vivaldi.png" width="80%" alt="Vivaldi Validation">
+    </details>
 
-  <details>
-    <summary>Vivaldi</summary>
-      <img src="./assets/readme_images/testing/test_vivaldi.png" width="80%" alt="Vivaldi Validation">
-  </details>
-
-  <details>
-    <summary>Brave</summary>
-      <img src="./assets/readme_images/testing/test_brave.png" width="80%" alt="Brave Validation">
-  </details>
+    <details>
+      <summary>Brave</summary>
+        <img src="./assets/readme_images/testing/test_brave.png" width="80%" alt="Brave Validation">
+    </details>
 
 [Back to top](#smiling-depression)
 

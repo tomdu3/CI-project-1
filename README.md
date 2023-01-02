@@ -524,7 +524,7 @@ The issues and bugs were mentioned in [Issues and Bugs](#issues-and-bugs).
 
   <details>
     <summary>CSS Style</summary>
-      <img src="./assets/readme_images/testing/Stylecss_test.png" width="80%" alt="CSS Style Validator Test">
+      <img src="./assets/readme_images/testing/stylecss_test.png" width="80%" alt="CSS Style Validator Test">
   </details>
 
 #### Final Validator Testing
